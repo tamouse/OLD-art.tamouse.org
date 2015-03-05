@@ -1,0 +1,6 @@
+.sass-cache
+public/
+save-for-later/
+tmp/
+s3-images/
+_deploy/
