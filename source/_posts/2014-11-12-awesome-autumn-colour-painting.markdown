@@ -5,6 +5,8 @@ date: 2014-11-12 17:05
 categories: [art]
 tags: [autumn, colour, watercolour, painting, class]
 ---
+We started working on a new painting today, exploring autumn colours.
+
 Work in progress on a painting in class: ![](http://tt.imageshare.s3.amazonaws.com/art/class/2014-11-boat-awesome-autumn-colour/web/20141112_145104.jpg)
 
 ## Source Image

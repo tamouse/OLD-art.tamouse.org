@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windmills"
+title: "Windmills - Practice"
 date: 2015-03-11 20:23
 categories: [watercolour]
 tags: [class]
@@ -112,6 +112,3 @@ study. (You can rather see where I was impatient at first.)
 * 1 inch flat for sky, water, and ground washes.
 * #10 round for colour work.
 * #4 round for line work and calligraphy.
-
-
-

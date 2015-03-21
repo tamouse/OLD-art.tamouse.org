@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windmills"
+title: "Windmills - Final"
 date: 2015-03-18 20:23
 categories: [watercolour]
 tags: [class, final]
