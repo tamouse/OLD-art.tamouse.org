@@ -8,15 +8,19 @@ gallery:
     - file: windmills-1.jpg
       title: "Windmills"
       date: 2015-03-18
+      post_link: "/watercolour/2015/03/18/windmills-final/"
     - file: native-dress-1.jpg
       title: "Native Dress"
       date: 2015-02-18
+      post_link: "/watercolour/2015/02/18/native-dress/"
     - file: figure-on-beach-1.jpg
       title: "Figure on Beach"
       date: 2015-01-28
+      post_link: "/watercolour/2015/01/28/figure-on-the-beach/"
     - file: ice-fjord-village-2.jpg
       title: "Ice Fjord Village"
       date: 2015-01-21
+      post_link: "/watercolour/2015/01/15/painting-class-ice-fjord-village/"
 ---
 
 {% assign fullpath      = site.s3path | append: "Gallery/" %}
@@ -28,16 +32,16 @@ gallery:
   <header>
     <p>A selection of featured images.</p>
   </header>
-  <article>
+  <article class="row">
     {% for image in page.gallery.images %}
-    <section style="margin: 20px; padding: 10px;">
-      <figure class="text-center">
+    <section class="col-sm-12 col-md-6 col-lg-4">
+      <figure class="thumbnail">
         <a href="{{ image.file | prepend: webs_path }}"
            target="_blank">
           <img src="{{ image.file | prepend: gallery_path }}" alt="{{ image.title }}">
         </a>
         <figcaption class="text-center">
-          {{ image.title}} <br />
+          <a href="{{ image.post_link | prepend: site.baseurl }}">{{ image.title}}</a> <br />
           {{ image.date | date: "%a, %b %d, %Y"}} <br />
           <a href="{{ image.file | prepend: webs_path }}">
             <em>[enlarged image]</em>
