@@ -1,0 +1,20 @@
+{% assign avatar = post.gallery.images.last.thumb | prepend: post.gallery.path | prepend: site.s3path %}
+<div class="media"
+     style="margin: 10px 0; padding: 5px 0">
+  <div class="media-left"
+       style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;">
+    {% if post.gallery.images.last %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <img class="media-object"
+           src="{{ avatar }}"
+           style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;"
+           />
+    </a>
+    {% endif %}
+  </div>
+  <div class="media-body">
+    <h2><a href="{{ post.url | prepend: site.baseurl }}"
+           class="media-heading">{{ post.title }}</a></h2>
+    {% if post.excerpt %}<p>{{ post.excerpt | markdownify }}</p>{% endif %}
+  </div>
+</div>

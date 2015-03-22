@@ -6,6 +6,80 @@ categories: ["art"]
 tags: ["painting", "watercolour", "class", "ice-fjord-village"]
 source: https://500px.com/photo/83926373/ice-fjord-village-by-Örvar-atli
 thumbnail: http://tt.imageshare.s3.amazonaws.com/art/ice-fjord-painting/2015-01-15-home-20150115_011538.jpg
+gallery:
+  path: "watercolour/class/2015/2015-01-ice-fjord/"
+  images:
+    - fullsize: org-screen-shot.jpg
+      gallery: gallery/org-screen-shot.jpg
+      web: webs/org-screen-shot.jpg
+      thumb: thumbs/org-screen-shot.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: original-photo-ice-fjord-village-500px-orvar-atli.jpg
+      gallery: gallery/original-photo-ice-fjord-village-500px-orvar-atli.jpg
+      web: webs/original-photo-ice-fjord-village-500px-orvar-atli.jpg
+      thumb: thumbs/original-photo-ice-fjord-village-500px-orvar-atli.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150107_145322.jpg
+      gallery: gallery/20150107_145322.jpg
+      web: webs/20150107_145322.jpg
+      thumb: thumbs/20150107_145322.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150107_150235.jpg
+      gallery: gallery/20150107_150235.jpg
+      web: webs/20150107_150235.jpg
+      thumb: thumbs/20150107_150235.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150114_135320.jpg
+      gallery: gallery/20150114_135320.jpg
+      web: webs/20150114_135320.jpg
+      thumb: thumbs/20150114_135320.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150114_141613.jpg
+      gallery: gallery/20150114_141613.jpg
+      web: webs/20150114_141613.jpg
+      thumb: thumbs/20150114_141613.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150114_205524.jpg
+      gallery: gallery/20150114_205524.jpg
+      web: webs/20150114_205524.jpg
+      thumb: thumbs/20150114_205524.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150115_011538.jpg
+      gallery: gallery/20150115_011538.jpg
+      web: webs/20150115_011538.jpg
+      thumb: thumbs/20150115_011538.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 20150121_141320.jpg
+      gallery: gallery/20150121_141320.jpg
+      web: webs/20150121_141320.jpg
+      thumb: thumbs/20150121_141320.gif
+      caption: ""
+      description: >-
+        blah
+    - fullsize: 2015-01-21-class-20150121_141731-enhanced-perspective.jpg
+      gallery: gallery/2015-01-21-class-20150121_141731-enhanced-perspective.jpg
+      web: webs/2015-01-21-class-20150121_141731-enhanced-perspective.jpg
+      thumb: thumbs/2015-01-21-class-20150121_141731-enhanced-perspective.gif
+      caption: "Final Version"
+      description: >-
+        Final version of painting.
+
 original: http://tt.imageshare.s3.amazonaws.com/art/ice-fjord-painting/original-photo-ice-fjord-village-500px-orvar-atli.jpg
 day1:
   sky: http://tt.imageshare.s3.amazonaws.com/art/ice-fjord-painting/2014-01-07-class-20150107_145330.jpg
@@ -151,4 +225,4 @@ more detail to the ice bergs, give them some three-dimensionality and
 such. I might also tone down the slats in the houses; they should be
 less stark, more weathered. It might be difficult now, though, as I've
 taken the masking fluid off and I don't want to lose the windows and
-doors. 
+doors.
