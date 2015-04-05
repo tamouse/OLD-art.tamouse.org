@@ -2,8 +2,8 @@
 layout: post
 title: "Awesome Autumn Colour Painting"
 date: 2014-11-12 17:05
-categories: [art]
-tags: [autumn, colour, watercolour, painting, class]
+categories: [watercolour]
+tags: [autumn, colour, painting, class]
 ---
 We started working on a new painting today, exploring autumn colours.
 

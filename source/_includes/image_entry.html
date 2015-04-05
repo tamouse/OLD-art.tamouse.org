@@ -9,13 +9,22 @@
            style="min-width: 200px; min-height: 200px;"></a>
   </div>
   <div class="media-body">
+    {% if image.caption %}
     <h4 class="media-heading">
       <a target="_blank"
          href="{{image.web | prepend: gallery_path}}">
         {{image.caption}}
       </a>
     </h4>
-    <p>{{ image.description }}</p>
+    {% else %}
+    <p><em>no caption</em></p>
+    <p><em>[<a href="{{ image.web | prepend: gallery_path }}">embiggen</a></em>]</p>
+    {% endif %}
+    {% if image.description %}
+    <p>{{ image.description | markdownify }}</p>
+    {% else %}
+    <p><em>no description.</em></p>
+    {% endif %}
     <p><em>[<a target="_blank" href="{{image.fullsize | prepend: gallery_path}}">full size</a>]</em></p>
   </div>
 </div>

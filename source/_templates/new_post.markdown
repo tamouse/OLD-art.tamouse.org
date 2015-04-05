@@ -12,7 +12,7 @@ gallery:
       web: webs/
       thumb: thumbs/
       caption: ""
-      descriptions: >-
+      description: |-
         blah blah
 
 # source: URL

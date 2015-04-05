@@ -1,7 +1,7 @@
 {% assign avatar = post.gallery.images.last.thumb | prepend: post.gallery.path | prepend: site.s3path %}
 <div class="media"
      style="margin: 10px 0; padding: 5px 0">
-  <div class="media-left"
+  <div class="media-left media-top"
        style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;">
     {% if post.gallery.images.last %}
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -13,8 +13,19 @@
     {% endif %}
   </div>
   <div class="media-body">
-    <h2><a href="{{ post.url | prepend: site.baseurl }}"
+    <h2 style="margin-top: 0"><a href="{{ post.url | prepend: site.baseurl }}"
            class="media-heading">{{ post.title }}</a></h2>
+    <ol class="breadcrumb">
+      <li>{{ post.date | date: "%b %-d, %Y" }}</li>
+      {% if post.author %}<li>Author: {{ post.author }}</li>{% endif %}
+      {% if post.meta %}<li>Meta: {{ post.meta }}</li>{% endif %}
+      {% if post.categories %}<li>Categories:</li>
+      {% for cat in post.categories %}<li><a href="{{site.baseurl}}/categories/{{cat}}">{{cat}}</a></li>{% endfor %}
+      {% endif %}
+      {% if post.tags %}<li>Tags:</li>
+      {% for tag in post.tags %}<li><a href="{{site.baseurl}}/tags/{{tag}}">{{tag}}</a></li>{% endfor %}
+      {% endif %}
+    </ol>
     {% if post.excerpt %}<p>{{ post.excerpt | markdownify }}</p>{% endif %}
   </div>
 </div>

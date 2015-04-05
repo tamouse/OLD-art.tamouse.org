@@ -53,20 +53,17 @@ gallery:
       web: webs/20150325_144417.jpg
       thumb: thumbs/20150325_144417.gif
       caption: "Final wash - darks"
-      description: >-
+      description: |-
         The last wash is the darks, the trees in the background, the
-        details on the buildings, etc.
-
-        The colours used here (so far) are Quin Burnt Orange and
-        French Ultramarine Blue, applied directly to and mixed on the
-        paper, rather than mixed in the palette.
+        details on the buildings, etc.  The colours used here (so far)
+        are Quin Burnt Orange and French Ultramarine Blue, applied
+        directly to and mixed on the paper, rather than mixed in the
+        palette.
 
         This is where the painting's details come in, and I can start
-        to see the buildings for what they are.
+        to see the buildings for what they are.  Notice the tree to
+        the left of the house is still quite wet.
 
-        This is not finished, just what
-        I had time to do in class. Notice the tree to the left of the
-        house is still quite wet.
 ---
 
 Our instructor, Linda, is taking a workshop from one of her favourite

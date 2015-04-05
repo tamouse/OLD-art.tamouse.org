@@ -1,6 +1,6 @@
 title: "tamouse's Art Blog"
 email: tamouse@gmail.com
-description: > 
+description: >
   The Art blog of Tamara Temple. Watercolours, sketches, Corel Painter, misc. stuff.
 baseurl: ''
 url: "http://art.tamouse.org"
@@ -14,9 +14,11 @@ markdown: kramdown
 kramdown:
   input: GFM # Githup Flavoured Markdown
   hard_wrap: false
-  
+
 highlighter: pygments
 lsi: false
+
+post_limit: 10
 
 # This is where the images I show in the blog will be kept. The path
 # follow the pretty permalink as used in the blog. E.g.:

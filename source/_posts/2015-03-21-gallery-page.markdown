@@ -2,8 +2,8 @@
 layout: post
 title: "Gallery Page"
 date: 2015-03-21 15:47
-categories: []
-tags: []
+categories: [misc]
+tags: [info, gallery]
 ---
 
 I've added a

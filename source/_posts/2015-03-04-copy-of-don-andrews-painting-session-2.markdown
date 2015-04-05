@@ -51,7 +51,7 @@ gallery:
 
 Starting last week, our assignment was to work on a copy of a painting
 by [Don Andrews](http://www.donandrews.net), an artist
-[already familiar]({% post_url 2013-10-16-donandrews-dot-net %})
+[already familiar]({{ "watercolour/2013/10/16/donandrews-dot-net/" | prepend: site.baseurl }})
 to us in class.
 
 {% assign gallery_path = site.s3path | append: page.gallery.path %}
