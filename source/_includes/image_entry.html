@@ -1,4 +1,5 @@
 <div class="media">
+  <a name="{{ image.caption | slugify }}"></a>
   <div class="media-left">
     <a target="_blank" href="{{image.web | prepend: gallery_path}}">
       <img class="media-object"
