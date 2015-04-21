@@ -1,7 +1,9 @@
 <div class="media">
   <a name="{{ image.caption | slugify }}"></a>
   <div class="media-left">
-    <a target="_blank" href="{{image.web | prepend: gallery_path}}">
+    <a class="fancybox"
+       href="{{image.web | prepend: gallery_path}}"
+       title="{{image.caption}}">
       <img class="media-object"
            src="{{image.thumb | prepend: gallery_path}}"
            alt="{{image.caption}}"
@@ -12,8 +14,9 @@
   <div class="media-body">
     {% if image.caption %}
     <h4 class="media-heading">
-      <a target="_blank"
-         href="{{image.web | prepend: gallery_path}}">
+      <a class="fancybox"
+         href="{{image.web | prepend: gallery_path}}"
+         title="{{image.caption}}">
         {{image.caption}}
       </a>
     </h4>

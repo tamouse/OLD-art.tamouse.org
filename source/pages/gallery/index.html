@@ -37,17 +37,24 @@ gallery:
     <section class="col-sm-12 col-md-6 col-lg-4">
       <figure class="thumbnail">
         <a href="{{ image.file | prepend: webs_path }}"
-           target="_blank">
+           class="fancybox"
+           rel="gal-group"
+           title="{{image.title}}">
           <img src="{{ image.file | prepend: gallery_path }}" alt="{{ image.title }}">
         </a>
         <figcaption class="text-center">
-          <a href="{{ image.post_link | prepend: site.baseurl }}">{{ image.title}}</a> <br />
+          <a href="{{ image.post_link | prepend: site.baseurl }}"
+             >{{ image.title}}</a> <br />
           {{ image.date | date: "%a, %b %d, %Y"}} <br />
-          <a href="{{ image.file | prepend: webs_path }}">
+          <a href="{{ image.file | prepend: webs_path }}"
+             target="_blank"
+             >
             <em>[enlarged image]</em>
           </a>
           <br />
-          <a href="{{ image.file | prepend: fullpath }}">
+          <a href="{{ image.file | prepend: fullpath }}"
+             target="_blank"
+             >
             <em>[full-size image]</em>
           </a>
         </figcaption>
