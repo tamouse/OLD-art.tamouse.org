@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dry Brush Stipling"
+title: "Dry Brush Stippling"
 date: 2015-04-15 22:19
-categories: [watercolour]
-tags: [andy-evansen, techniques]
+categories: [watercolour, "class"]
+tags: [andy-evansen, value-study, landscape, techniques]
 gallery:
   path: watercolour/class/2015/2015-04-15-class/
   images:
@@ -14,7 +14,7 @@ gallery:
     caption: 'Source Image'
     description: |-
       Our teacher found this image and sent it out to us in the class
-      in order to practice some dry brush stipling techniques as done
+      in order to practice some dry brush stippling techniques as done
       by one of her teachers, Andy Evansen.
 
   - fullsize: 20150415_134036-value-study-layer-1-midtones.jpg
@@ -54,9 +54,9 @@ gallery:
     gallery: gallery/20150415_142007-dry-brush-stipling.jpg
     web: webs/20150415_142007-dry-brush-stipling.jpg
     thumb: thumbs/20150415_142007-dry-brush-stipling.gif
-    caption: 'Practice Stipling'
+    caption: 'Practice Stippling'
     description: |-
-      The technique we are learning to emulate is a stipling effect
+      The technique we are learning to emulate is a stippling effect
       with a dry brush.
 
       Linda taught us the "pattern" used by Andy:
@@ -92,7 +92,7 @@ gallery:
 ---
 
 In class today, Linda showed us a technique used by one of her
-teachers, [Andy Evansen][evansen], a dry brush stipling technique that
+teachers, [Andy Evansen][evansen], a dry brush stippling technique that
 we used to acheive a nice feel with trees.
 
 {% assign gallery_path = site.s3path | append: page.gallery.path %}
@@ -139,7 +139,7 @@ I think.
 ### Paints
 
 * DS Neutral Tint for value study
-* DS Prussian Blue for stipling practice
+* DS Prussian Blue for stippling practice
 
 ### Brushes
 
