@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dry Brush Stippling"
+title: "Barn - Dry Brush Stippling (Part 1)"
 date: 2015-04-15 22:19
 categories: [watercolour, "class"]
-tags: [andy-evansen, value-study, landscape, techniques]
+tags: [andy-evansen, value-study, landscape, technique]
 gallery:
   path: watercolour/class/2015/2015-04-15-class/
   images:
