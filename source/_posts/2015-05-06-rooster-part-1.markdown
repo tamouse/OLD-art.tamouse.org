@@ -13,7 +13,7 @@ gallery:
     thumb: thumbs/Rooster.gif
     caption: 'source photo'
     description: |-
-
+      A colourful fellow!
 
   - fullsize: 20150506_140821-wip-01-underlayer.jpg
     gallery: gallery/20150506_140821-wip-01-underlayer.jpg
@@ -21,39 +21,39 @@ gallery:
     thumb: thumbs/20150506_140821-wip-01-underlayer.gif
     caption: 'background underlayer'
     description: |-
-
+      The picture has a mostly yellow cast, a glow that comes from underneath everything, so almost the entire background is painted with a very light wash of quin gold. I left some areas white that will either remain white or get some other treatement.
 
   - fullsize: 20150506_142034-wip-02-feathers.jpg
     gallery: gallery/20150506_142034-wip-02-feathers.jpg
     web: webs/20150506_142034-wip-02-feathers.jpg
     thumb: thumbs/20150506_142034-wip-02-feathers.gif
-    caption: ''
+    caption: 'base feathers'
     description: |-
-
+      One of the interesting and most notable features of our rooster friend is his colourful plumage. Instead of washing on the feathers, I used a combination of sumi-e stroke and the dry-brush technique. In this step, I've put in the basic "golden" layers, using a mixture of quin gold, quin scarlet, perm. alizerin crimson, and quin burnt orange, going deeper in some places than others to give the feathers a more varigated look.
 
   - fullsize: 20150506_142034-wip-03-feathers.jpg
     gallery: gallery/20150506_142034-wip-03-feathers.jpg
     web: webs/20150506_142034-wip-03-feathers.jpg
     thumb: thumbs/20150506_142034-wip-03-feathers.gif
-    caption: ''
+    caption: 'colourful plumage'
     description: |-
-
+      The beautiful teals, blues and purples of the tail feathers and other parts were fun to paint. Broad sumi-e strokes again, to give them a nice natural feel. Phthalo Green, Phthalo Blue, French Ultramarine Blue, and some Cobalt Blue Violet here.
 
   - fullsize: 20150506_142034-wip-04-feathers.jpg
     gallery: gallery/20150506_142034-wip-04-feathers.jpg
     web: webs/20150506_142034-wip-04-feathers.jpg
     thumb: thumbs/20150506_142034-wip-04-feathers.gif
-    caption: ''
+    caption: 'filling in more'
     description: |-
-
+      Just a continuation from above, adding in more bits of feather and stuff.
 
   - fullsize: 20150506_142034-wip-05-feathers.jpg
     gallery: gallery/20150506_142034-wip-05-feathers.jpg
     web: webs/20150506_142034-wip-05-feathers.jpg
     thumb: thumbs/20150506_142034-wip-05-feathers.gif
-    caption: ''
+    caption: 'even brigher'
     description: |-
-
+      This layer is mostly red, using Cadmium Red to give a strong, vibrant flow to the bird. Narrow sumi-e strokes here as well.
 
 ---
 
@@ -70,7 +70,6 @@ Working on a very colourful rooster today!
 {% for image in page.gallery.images %}
 {% include image_entry.html %}
 {% endfor %}
-
 
 *******
 
@@ -91,6 +90,7 @@ Working on a very colourful rooster today!
 * DS Phthalo Green
 * DS Phthalo Blue
 * DS Cobalt Blue Violet
+* DS Cadmium Red
 
 ### Brushes
 
