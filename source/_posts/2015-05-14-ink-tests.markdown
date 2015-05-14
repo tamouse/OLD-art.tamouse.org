@@ -1,0 +1,133 @@
+---
+layout: post
+title: "Ink Tests"
+date: 2015-05-14 02:57
+categories: [ink-and-paper]
+tags: [tests, ink, noodlers, apache-sunset, prussian-blue, cactus-fruit]
+gallery:
+  path: ink-and-paper/2015-05-14-ink-tests/
+  images:
+  - fullsize: 20150514_023520-ink-stained-fingers.jpg
+    gallery: gallery/20150514_023520-ink-stained-fingers.jpg
+    web: webs/20150514_023520-ink-stained-fingers.jpg
+    thumb: thumbs/20150514_023520-ink-stained-fingers.gif
+    caption: 'ink-stained fingers'
+    description: |-
+      One of the results for me of playing with art supplies and stuff like this is that I tend to be a bit messy and get it on myself. This isn't so much of a problem with watercolour paints, but wow is it a problem with inks staining my fingers. :) Mind you, a problem I don't mind having!
+
+  - fullsize: 20150514_024456-cactus-flower-brush.jpg
+    gallery: gallery/20150514_024456-cactus-flower-brush.jpg
+    web: webs/20150514_024456-cactus-flower-brush.jpg
+    thumb: thumbs/20150514_024456-cactus-flower-brush.gif
+    caption: 'cactus fruit eel ink test with brush pen'
+    description: |-
+      Another purchase I made was a Noodler's Konrad Brush pen. I love brush pens, aka japanese fude pens. This is using the lovely lovely Cactus Fruit Eel ink (Eel is a line on inks, I don't think it has anything to do with the creatures (I hope not). This is fun ink, I can see using this on projects.
+
+  - fullsize: 20150514_023431-apache-sunset-ahab.jpg
+    gallery: gallery/20150514_023431-apache-sunset-ahab.jpg
+    web: webs/20150514_023431-apache-sunset-ahab.jpg
+    thumb: thumbs/20150514_023431-apache-sunset-ahab.gif
+    caption: 'apache sunset ink test with flex pen'
+    description: |-
+      This is using the highly prized Apache Sunset ink from Noodler's. Many people have sworn by (not at) this ink and I can see why. It may not be so great as a straight-up writing ink, but the colour is absolutely gorgeous! I could see using this more as an ink wash, which I'm going to have to try sometime.
+
+  - fullsize: 20150514_023446-prussian-blue-ahab.jpg
+    gallery: gallery/20150514_023446-prussian-blue-ahab.jpg
+    web: webs/20150514_023446-prussian-blue-ahab.jpg
+    thumb: thumbs/20150514_023446-prussian-blue-ahab.gif
+    caption: 'prussian blue ink test with flex pen'
+    description: |-
+      I was using prussian blue in a recent watercolour painting test, and I think I started to really like the colour for itself. I bought a sample vial of Diamine Prussian Blue ink and gave it a whirl in the Ahab flex pen. I like this colour, I think I'm going to pop for a whole bottle and use it on a more regular basis.
+
+---
+
+The [Goulet Pen Company][goulet] keeps sending me
+emails that I am compelled to read and then I have to go off and
+purchase something else from them. This is turning into a bit of an
+expensive hobby. :)
+
+I recently bought a set of ink samples from them, and started to play
+around a bit. Naturally, this resulted in ink-stained fingers. :)
+
+Here's a few samples.
+
+{% assign gallery_path = site.s3path | append: page.gallery.path %}
+
+*******
+
+## Tests
+
+{% for image in page.gallery.images %}
+{% include image_entry.html %}
+{% endfor %}
+
+
+*******
+
+## Thoughts
+
+This is becoming quite a hobby. I have always loved art and office
+supplies, sort of an obsession, really, and can spend hours in office
+& art supply stores.
+
+Somewhere someone recommended a cheap fountain pen for sketching, and
+I discovered [Goulet Pens][goulet] for myself. Listening to their
+podcasts, videocasts, reading their blog, it's all so fun and new and
+shiny and ...
+
+Yeah.
+
+The inks are fun; I have a whole bunch to eventually try out. Cleaning
+and filling the pens can be a bit of a pain for testing inks, though,
+so I just ordered (*cough*) a glass pen that will let me just dip ink
+out of the tiny sample vials. Looking forward to that.
+
+### Flex pen
+
+The [Ahab flex pen][ahab] is something that is quite new to me. I had
+not heard of these before, but it became clear I had to have one. The
+nib is flexible (hence the name) and it allows you to create a more
+italic/calligraphic style of writing by applying more pressure on
+downward strokes of the pen. It will definitely take me some practice
+time to get used to it. Nevertheless, I am pleased with the results on
+it.
+
+The Ahab comes completely apart, which is interesting. Putting
+everything back together proved to be a bit of a challenge for me,
+though. I needed to close down the plunger slightly in order to screw
+the barrel back on, and I didn't remember seeing that that was
+necessary when I took it apart. There was also a bit more ink around
+the collar than I expected, and it partly leaked out. I think I
+eventually got things under control, but the semi-depressed plunger is
+a bit disturbing.
+
+### Brush pen
+
+The [Konrad brush pen][brush] is also fun. I've had several fude pens
+from Japan in the past few years, and have been studying Japanese
+Sumi-e painting techniques, and this is quite a win for me, having a
+fillable brush pen. (My others have replacement cartridges, but only
+black ink.)
+
+*******
+
+## Materials
+
+### Inks
+
+* [Diamine Prussian Blue][prussian]
+* [Noodler's Apache Sunset][apache]
+* [Noodler's Cactus Fruit Eel][cactusfruit]
+
+### Pens
+
+* [Noodler's Ahab Flex pen][ahab]
+* [Noodler's Konrad Brush pen][brush]
+
+
+[goulet]: https://www.gouletpens.com "Goulet Pen Company, or as I like to call them: pen pushers"
+[ahab]: http://www.gouletpens.com/search?query=ahab+pen&facetValueFilter= "Ahab Flex Pen, at Goulet Pens"
+[brush]: http://www.gouletpens.com/search?query=konrad+brush+pen&facetValueFilter= "Konrad Brush Pen, at Goulet Pens"
+[prussian]: http://www.gouletpens.com/d7018/p/D7018 "Diamine Prussian Blue Ink, at Goulet Pens"
+[apache]: http://www.gouletpens.com/n19022/p/N19022 "Apache Sunset Ink, at Goulet Pens"
+[cactusfruit]: http://www.gouletpens.com/n19205/p/N19205 "Cactus Fruit Eel Ink, at Goulet Pens"
