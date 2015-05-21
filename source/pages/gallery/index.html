@@ -2,57 +2,35 @@
 layout: page
 title: "Gallery"
 navbar: true
-gallery:
-  path: Gallery/
-  images:
-    - file: windmills-1.jpg
-      title: "Windmills"
-      date: 2015-03-18
-      post_link: "/watercolour/2015/03/18/windmills-final/"
-    - file: native-dress-1.jpg
-      title: "Native Dress"
-      date: 2015-02-18
-      post_link: "/watercolour/2015/02/18/native-dress/"
-    - file: figure-on-beach-1.jpg
-      title: "Figure on Beach"
-      date: 2015-01-28
-      post_link: "/watercolour/2015/01/28/figure-on-the-beach/"
-    - file: ice-fjord-village-2.jpg
-      title: "Ice Fjord Village"
-      date: 2015-01-21
-      post_link: "/watercolour/2015/01/15/painting-class-ice-fjord-village/"
 ---
 
-{% assign fullpath      = site.s3path | append: "Gallery/" %}
-{% assign gallery_path  = fullpath | append: "gallery/" %}
-{% assign thumbs_path   = fullpath | append: "thumbs/" %}
-{% assign webs_path     = fullpath | append: "webs/" %}
+{% assign fullpath      = site.s3path | append: site.data.gallery.path %}
 
 <div class="container">
   <header>
     <p>A selection of featured images.</p>
   </header>
   <article class="row">
-    {% for image in page.gallery.images %}
+    {% for image in site.data.gallery.images %}
     <section class="col-sm-12 col-md-6 col-lg-4">
       <figure class="thumbnail">
-        <a href="{{ image.file | prepend: webs_path }}"
+        <a href="{{ fullpath | append: image.web }}"
            class="fancybox"
            rel="gal-group"
            title="{{image.title}}">
-          <img src="{{ image.file | prepend: gallery_path }}" alt="{{ image.title }}">
+          <img src="{{ fullpath| append: image.gallery }}" alt="{{ image.title }}">
         </a>
         <figcaption class="text-center">
           <a href="{{ image.post_link | prepend: site.baseurl }}"
              >{{ image.title}}</a> <br />
           {{ image.date | date: "%a, %b %d, %Y"}} <br />
-          <a href="{{ image.file | prepend: webs_path }}"
+          <a href="{{ fullpath | append: image.web }}"
              target="_blank"
              >
             <em>[enlarged image]</em>
           </a>
           <br />
-          <a href="{{ image.file | prepend: fullpath }}"
+          <a href="{{ fullpath | append: image.fullsize }}"
              target="_blank"
              >
             <em>[full-size image]</em>
