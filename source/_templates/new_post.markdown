@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "<%= @title %>"
-date: <%= Time.now.strftime("%Y-%m-%d %H:%M") %>
-categories: [<%= Array(@categories).join(", ") %>]
-tags: [<%= Array(@tags).join(", ") %>]
+date: <%= @date %> <%= @time %>
+categories: <%= @categories %>
+tags: <%= @tags %>
 gallery:
   path: <%= Array(@categories).first %>/filename/
   images:
