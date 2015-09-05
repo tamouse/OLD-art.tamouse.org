@@ -73,12 +73,31 @@ gallery:
     caption: "Final with Mat"
     description: >-
       I added a black border mat in Photoshop.
+
+  - fullsize: 020-final.jpg
+    gallery: gallery/020-final.jpg
+    web: webs/020-final.jpg
+    thumb: thumbs/020-final.gif
+    caption: "Reshoot Final"
+    description: >-
+      There was a shadow on the final shot previously, so I retook it with better lighting. There is nothing different about the painting, just a better photo. :)
+
+
+  - fullsize: 021-final-matte.jpg
+    gallery: gallery/021-final-matte.jpg
+    web: webs/021-final-matte.jpg
+    thumb: thumbs/021-final-matte.gif
+    caption: "New Final with Mat"
+    description: >-
+      The new version of the final with a mat added in PS.
 ---
 This is a copy of a painting (who I cannot remember right now -- remember to find out next week in class) from one of her books.
 
 It is supposed to give a *trome l'oeil* impression that the flowers are both inside *and* outside the frame, but I kind of botched that up and all the flowers appear in front of the frame.
 
 Still, I'm pretty pleased with how things worked out with it.
+
+**Update:** The final shot I took in class had a shadow on it, so I reshot it with much better lighting and added the mat again in PS.
 
 {% assign gallery_path = site.s3path | append: page.gallery.path %}
 
