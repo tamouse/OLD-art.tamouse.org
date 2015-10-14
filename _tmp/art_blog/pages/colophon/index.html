@@ -1,0 +1,171 @@
+---
+layout: page
+title: "Colophon"
+---
+
+<main>
+  <div class="panel panel-info">
+    <div class="panel-heading"><h3>Colophon</h3></div>
+    <div class="panel-body">
+      <blockquote>
+        <p>
+          Colophon Col&acute;o*phon (k[o^]&acute;l[-o]*f[o^]n), n. [L. colophon
+          finishing stroke, Gr. kolofw`n; cf. L. culmen top, collis
+          hill. Cf. Holm.]
+        </p>
+
+        <p>
+          An inscription, monogram, or cipher, containing the place and
+          date of publication, printer's name, etc., formerly placed on
+          the last page of a book.
+        </p>
+        <footer>
+          from
+          <a href="http://www.dict.org/bin/Dict?Form=Dict3&Database=gcide">
+            The Collaborative International Dictionary of English v.0.48
+          </a>
+          via
+          <a href="http://www.dict.org/bin/Dict?Form=Dict2&Database=*&Query=colophon">
+            dict.org
+          </a>
+        </footer>
+      </blockquote>
+
+    </div>
+  </div>
+
+  <hr />
+
+  <p>
+    This site was built using the
+    <a href="https://github.com/tamouse/jekyll-twitter-bootstrap-template"
+       title="A template for jekyll sites using twitter bootstrap">
+      Jekyll Twitter Bootstrap template
+    </a>,
+    created by
+    <a href="https://github.com/tamouse">Tamara Temple (aka tamouse)</a>.
+    It includes elements of
+    <a href="http://jekyllrb.com"
+       title="Jekyll - a modern, blog-aware static web site generator">
+      Jekyll
+    </a>,
+    <a href="http://getbootstrap.com"
+       title="A great way to design pretty websites fast">
+      Twitter Bootstrap
+    </a>; see the
+    <a href="/pages/styleguide">
+      Style Guide
+    </a> for bootstrap theme usage,
+    <a href="http://fontawesome.io"
+       title="Great looking icon fonts">
+      FontAwesome
+    </a>,
+    and
+    <a href="http://www.datatables.net"
+       title="Make your web tables pretty and useful">
+      datatables
+    </a>
+  </p>
+
+
+  <p>
+    Special thanks to @jaybe (at irc://freenode.net/#jekyll) and
+    <a href="https://github.com/parkr"
+       title="Parker Moore">
+      @parkr
+    </a>
+    for all their help, interest, and encouragement.
+  </p>
+
+
+  <p>
+    This site works with
+    <a href="https://github.com/tamouse/jekyllpress"
+       title="Thor script to make some jekyll blogging chores easier">
+      Jekyllpress
+    </a>
+    as well.
+  </p>
+
+{% capture organizing %}
+
+## Organizing, Storing, and Viewing Images
+
+Art work is stored in a directory tree under `$HOME/Art/`.
+
+I've adopted the standard that images in the root of a directory are
+the things that should be shown. Thus
+`watercolour/class/2015/2015-03-windmills/` will have the images
+that should be shown.
+
+I have also created a utility, `$HOME/bin/makegallery.rb` (ruby
+script), that builds differently-sized images suitable for regular
+web browsing, a smaller "gallery" size, and a square thumb nail
+size.
+
+Files and folders that I do *not* want uploaded to S3 are saved in
+directories with an underscore prefix which is ignored by the sync
+script mentioned [below](#automating-file-upload).
+
+Images that are used in the art blog are stored out on Amazon S3
+with publicly-accessible links. The bucket is `s3://art.tamouse.org/`
+and the directory path for the images should exactly match the
+directory path on the hard drive here under the `$HOME/Art/` folder.
+
+Thus, something in `$HOME/Art/Gallery/my-awsome-painting.jpg` will
+correspond to `s3://art.tamouse.org/Gallery/my-awesome-painting.jpg`
+and have the public URL of
+`http://art.tamouse.org.s3.amazonaws.com/Gallery/my-awesome-painting.jpg`.
+
+This makes writing blog posts containing images fairly easy,
+by setting the `page.gallery.path` to the path for the images, and
+have the collection of images as file names.
+
+### Automating file upload
+
+The script `$HOME/Art/syncs3.sh` performs the synchronozation of the
+image files, excluding files and directories that match the regular
+expressions contained in `$HOME/Art/.rexclude_from`. Presently, only
+directories which are actually used in the art blog are sync'd.
+
+### Automating blog post creation
+
+Initially creating a blog post that refers to a particular directory
+in the Art directory tree is something I want to automate.
+
+### Page gallery infomation in blog posts
+
+Information about the images is kept in the post's front matter
+section, under the tag `gallery`.
+
+The directory path to the images is in the `path` subcomponent of
+`gallery`.
+
+The images are listed in the `images` array. Each image is expected to
+have the following subcomponents:
+
+* `fullsize` - the filename of the image
+* `gallery` - path to the gallery-size image
+* `web` - path to the web-size image
+* `thumb` - path to the thumb-nail-size image
+* `caption` - a one-line text description
+* `description` - a longer text description, which will be run through
+markdown
+
+By default, using the `makegallery.rb` script, the subdirectories are:
+
+* `gallery`: `gallery/`
+* `web`: `webs/`
+* `thumb`: `thumbs/`
+
+Also, by default, the extension on the images in the `thumbs/`
+subdirectory is `gif`.
+
+
+
+
+
+{% endcapture %}
+
+  {{ organizing | markdownify }}
+</main>

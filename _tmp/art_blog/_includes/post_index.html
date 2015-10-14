@@ -1,0 +1,7 @@
+<section class="container">
+{% for post in include.posts limit:include.limit %}
+<section class="row">
+{% include post_index_entry.html post=post %}
+</section>
+{% endfor %}
+</section>
