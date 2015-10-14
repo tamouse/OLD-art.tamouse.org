@@ -1,14 +1,14 @@
-title: "tamouse's Art Blog"
+title: "tamouse's art blog"
 email: tamouse@gmail.com
 description: >
-  The Art blog of Tamara Temple. Watercolours, sketches, Corel Painter, misc. stuff.
+  The Art blog of Tamara Temple. Watercolours, ink and paper, sketches, Corel Painter, misc. stuff.
 baseurl: ''
 url: "http://art.tamouse.org"
 twitter_username: tamouse
 github_username:  tamouse
 
-source: source
-destination: public
+#source: source
+#destination: public
 permalink: pretty
 markdown: kramdown
 kramdown:
@@ -24,3 +24,6 @@ post_limit: 10
 # follow the pretty permalink as used in the blog. E.g.:
 # http://art.tamouse.org.s3.amazonaws.com/watercolour/2015-03-04-copy-of-don-andrews-painting/
 s3path: "http://art.tamouse.org.s3.amazonaws.com/"
+
+# Added by drink_up_doctor
+exclude: [README.md, DUD_README.md, bower.json, package.json, gulpfile.js, node_modules, bower_components]

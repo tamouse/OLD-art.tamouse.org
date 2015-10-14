@@ -1,6 +1,15 @@
+_site
 .sass-cache
-public/
-save-for-later/
-tmp/
-s3-images/
-_deploy/
+
+
+# Added by drink_up_doctor
+/_site/
+/.sass-cache/
+/node_modules/
+/assets/
+/bower_components/
+.DS_Store
+
+/save-for-later/
+/s3-images/
+/tmp/
