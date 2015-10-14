@@ -7,10 +7,39 @@ About time I started one, really.
 * `master` is the development branch
 * `deploy` is the deployment branch
 
+## Development
+
+[Recently](https://github.com/tamouse/art_blog/releases/tag/post-gulp)
+using [Drink up, Doctor!](https://github.com/tamouse/drink_up_doctor),
+I converted this blog site to a gulp-driven development cycle.
+
+Read the [Drink up, Doctor! README](DUD_README.md) for more
+information on that.
+
+The writing/dev cycle is now as simple as starting gulp:
+
+``` bash
+$ gulp
+```
+
+Everything else can be done in the editor, and your changes will
+appear in a browser window automagically.
+
 ## Deployment
 
 The deployment target is my Gandi VPS, under
 http://art.tamouse.org.
+
+To build the deployment distribution, stop the running gulp server,
+and run:
+
+``` bash
+$ gulp dist
+```
+
+This will build the complete distribution and put it in the `_dist`
+directory, which can then be used to push to the 'deploy' branch on
+the remote server.
 
 ### Post Receive hook on deployment site
 
