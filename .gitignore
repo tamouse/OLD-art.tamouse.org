@@ -4,6 +4,7 @@ _site
 
 # Added by drink_up_doctor
 /_site/
+/_dist/
 /.sass-cache/
 /node_modules/
 /assets/
