@@ -4,29 +4,13 @@ About time I started one, really.
 
 ## Branches
 
-* `deploy` is the deployment branch
 * `master` is the development branch
+* `deploy` is the deployment branch
 
 ## Deployment
 
 The deployment target is my Gandi VPS, under
 http://art.tamouse.org.
-
-The `./script/deploy.sh` script first builds the static jekyll site
-out to the `_deploy` directory, then pushes that to the `deploy`
-remote which is the repository on the remote server.
-
-The deployment method will be using git hooks, so when I push the
-`_deploy` directory to `deploy` branch on the remote repository, it
-will automatically update the static installation under
-`/home/tamara/Sites/tamouse.org/art` and that will be the live site.
-
-### `_deploy` subdirectory
-
-This directory is ignored by the main repository, and is itself a git
-repository, with the remote target `deploy`, and defaulting to the
-branch `deploy` (it all starts to make sense, innit). Jekyll is great
-about ignoring the `.git` subdirectory in the destination directory.
 
 ### Post Receive hook on deployment site
 
