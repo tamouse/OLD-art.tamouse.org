@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Pilot Parallel Practice"
+date: 2015-10-15 00:38
+categories: ["ink-and-paper"]
+gallery:
+  path: ink-and-paper/2015-10-15-practice/
+  images:
+  - fullsize: 01-practice.jpg
+    gallery: gallery/01-practice.jpg
+    web: webs/01-practice.jpg
+    thumb: thumbs/01-practice.gif
+    caption: 01-practice.jpg
+    description: All about the image 01-practice.jpg
+  - fullsize: 02-practice.jpg
+    gallery: gallery/02-practice.jpg
+    web: webs/02-practice.jpg
+    thumb: thumbs/02-practice.gif
+    caption: 02-practice.jpg
+    description: All about the image 02-practice.jpg
+  - fullsize: 03-practice.jpg
+    gallery: gallery/03-practice.jpg
+    web: webs/03-practice.jpg
+    thumb: thumbs/03-practice.gif
+    caption: 03-practice.jpg
+    description: All about the image 03-practice.jpg
+  - fullsize: 04-practice.jpg
+    gallery: gallery/04-practice.jpg
+    web: webs/04-practice.jpg
+    thumb: thumbs/04-practice.gif
+    caption: 04-practice.jpg
+    description: All about the image 04-practice.jpg
+  - fullsize: 05-practice.jpg
+    gallery: gallery/05-practice.jpg
+    web: webs/05-practice.jpg
+    thumb: thumbs/05-practice.gif
+    caption: 05-practice.jpg
+    description: All about the image 05-practice.jpg
+
+---
+{% assign gallery_path = site.s3path | append: page.gallery.path %}
+
+<h2>Just trying a little practice.</h2>
+
+<div class="row">
+{% for image in page.gallery.images %}
+<div class="col-xs-12 col-sm-6 col-md-4 text-center">
+  <a href="{{ image.web | prepend: gallery_path}}" rel="gallery" class="fancybox">
+    <img src="{{ image.gallery | prepend: gallery_path}}" class="img-responsive" alt="pen practice" />
+  </a>
+</div>
+{% endfor %}
+</div>
