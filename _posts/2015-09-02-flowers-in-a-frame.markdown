@@ -93,7 +93,7 @@ gallery:
 ---
 This is a copy of a painting (who I cannot remember right now -- remember to find out next week in class) from one of her books.
 
-It is supposed to give a *trome l'oeil* impression that the flowers are both inside *and* outside the frame, but I kind of botched that up and all the flowers appear in front of the frame.
+It is supposed to give a *trompe l'oeil* impression that the flowers are both inside *and* outside the frame, but I kind of botched that up and all the flowers appear in front of the frame.
 
 Still, I'm pretty pleased with how things worked out with it.
 
@@ -136,3 +136,8 @@ Still, I'm pretty pleased with how things worked out with it.
 ### Misc
 
 * Liquid latex mask
+
+
+## Copies Available
+
+This piece is available on a variety of objects and as prints, cards, *STICKERS!*, etc., at my [Redbubble](http://www.redbubble.com) shop: <http://www.redbubble.com/people/tamouse/works/16097806-flowers-in-and-out>.
