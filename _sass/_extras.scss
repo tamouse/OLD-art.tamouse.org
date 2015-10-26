@@ -31,3 +31,13 @@ img { max-width: 100%; }
 	margin-bottom: 10px;
     }
 }
+
+.hide-on-mobile {
+    display: none;
+}
+
+@media(min-width: $screen-md-min) {
+    .hide-on-mobile {
+	display: inherit;
+    }
+}
