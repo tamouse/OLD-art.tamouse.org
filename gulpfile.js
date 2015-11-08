@@ -2,7 +2,7 @@ var gulp        = require('gulp');
 var help        = require('gulp-task-listing');
 var cp          = require('child_process');
 var minifyCss   = require('gulp-minify-css');
-var notify      = require("gulp-notify") 
+var notify      = require("gulp-notify"); 
 var sass        = require('gulp-ruby-sass') ;
 var bower       = require('gulp-bower');
 var replace     = require('gulp-replace');
@@ -14,7 +14,7 @@ var config = {
     assetDir: "./assets",
     outputDir: "./_site",
     distDir: "./_dist"
-}
+};
 
 var messages = {
   jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -44,7 +44,7 @@ gulp.task('icons', function() {
          .pipe(gulp.dest(config.outputDir + "/assets/fonts"));
 });
 
-gulp.task('css', function() {
+gulp.task('css', function () {
   return sass(config.sassPath + "/main.scss", {
     style: "compressed",
     loadPath: [
@@ -54,10 +54,10 @@ gulp.task('css', function() {
     ],
     compass: true
   })
-         .pipe(minifyCss())
-         .pipe(gulp.dest(config.assetDir + "/css"))
-         .pipe(gulp.dest(config.outputDir + "/assets/css"))
-.pipe(browserSync.stream());
+    .pipe(minifyCss())
+    .pipe(gulp.dest(config.assetDir + "/css"))
+    .pipe(gulp.dest(config.outputDir + "/assets/css"))
+    .pipe(browserSync.stream());
 
 });
 
@@ -71,7 +71,7 @@ gulp.task('serve', ['build'], function() {
   });
 
   // Start a watch for rebuilds
-  gulp.watch(['_sass/*.scss'], ['css'])
+  gulp.watch(['_sass/*.scss'], ['css']);
   gulp.watch(['_config.yml', '*.html', '*.md', '*.xml', 'pages/**/*.*', '_layouts/*.html', '_includes/*', '_posts/*'], ['jekyll-rebuild']);
 });
 

@@ -24,7 +24,7 @@ Found a great quote for Fountain Pen day:
 <div class="text-center">
 The object is not to make art,<br>
 it is to be in that<br>
-<strong>Wonderful Space</strong><br>
+<strong>Wonderful State</strong><br>
 which makes art<br>
 <strong>Inevitable</strong>
 </div>
