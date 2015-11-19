@@ -19,7 +19,6 @@ img { max-width: 100%; }
     margin: 2px auto;
 }
 
-
 .gallery-image {
     height: auto;
     width: 100%;
@@ -36,8 +35,23 @@ img { max-width: 100%; }
     display: none;
 }
 
+.responsive-image-markdown > img {
+    @extend .img-responsive;
+    text-align: center;
+}
+
+.media-object {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+
 @media(min-width: $screen-md-min) {
     .hide-on-mobile {
 	display: inherit;
+    }
+    .media-object {
+	max-width: 200px;
+	max-height: 200px;
     }
 }

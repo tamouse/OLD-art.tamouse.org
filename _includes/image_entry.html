@@ -7,17 +7,15 @@
        title="{{image.caption}}">
       <img class="media-object"
            src="{{image.thumb | prepend: gallery_path}}"
-           alt="{{image.caption}}"
-           width="200px"
-           height="200px"
-           style="min-width: 200px; min-height: 200px;"></a>
+           alt="{{image.caption}}"></a>
   </div>
   <div class="media-body">
     {% if image.caption %}
     <h4 class="media-heading">
       <a class="fancybox"
          href="{{image.web | prepend: gallery_path}}"
-         title="{{image.caption}}">
+         title="{{image.caption}}"
+	 rel="post-caption">
         {{image.caption}}
       </a>
     </h4>
