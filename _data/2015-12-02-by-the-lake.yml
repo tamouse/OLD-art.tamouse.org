@@ -1,0 +1,74 @@
+---
+gallery:
+  path: watercolour/class/2015/2015-12-02-by-the-lake-in-pg-ac-ma/
+  images:
+  - fullsize: 000-original.jpg
+    gallery: gallery/000-original.jpg
+    web: webs/000-original.jpg
+    thumb: thumbs/000-original.gif
+    caption: source image
+    description: |
+
+      A fairly standard photo to paint from
+
+  - fullsize: 003-sky-and-water.jpg
+    gallery: gallery/003-sky-and-water.jpg
+    web: webs/003-sky-and-water.jpg
+    thumb: thumbs/003-sky-and-water.gif
+    caption: Sky and Water
+    description: |
+
+      The picture is a rather somber one, so I put in the sky holding
+      the 1 inch flat upright so the brush struck with the narrow
+      edge, giving the clouds some shape.
+
+      The water went in with the flat as well, but heavier, and more
+      of a wash, with some heavier strokes to give it some interest.
+
+  - fullsize: 005-bright-yellow-underpaint-and-far-shore.jpg
+    gallery: gallery/005-bright-yellow-underpaint-and-far-shore.jpg
+    web: webs/005-bright-yellow-underpaint-and-far-shore.jpg
+    thumb: thumbs/005-bright-yellow-underpaint-and-far-shore.gif
+    caption: Far shore, and bright yellow underpaint
+    description: |
+
+      The far shore was mainly some dense trees, very little going on
+      there, so I put it in rather faded, to give it some distance.
+
+      The yellow part on the lower left is to give the blossoms from
+      the original picture their colour. It is impossibly to paint
+      transparent yellow watercolour over a dark background, so I
+      painted it on first.
+
+  - fullsize: 007-shore-foreground-trees-overhanging-branches.jpg
+    gallery: gallery/007-shore-foreground-trees-overhanging-branches.jpg
+    web: webs/007-shore-foreground-trees-overhanging-branches.jpg
+    thumb: thumbs/007-shore-foreground-trees-overhanging-branches.gif
+    caption: Foreground and overhanging branches
+    description: |
+
+      The last bit this session was getting the trees on the left side
+      and the foreground area that is "by the lake" in. I'm very
+      unhappy with the state the trees are in; that area is all
+      muddy. I put it up and am leaving it until next week.
+
+      One of the fascinating parts of this was using the mixture of
+      Monte Amiato and Payne's Grey to make the green. It is a much
+      darker green than expected, but seems quite perfect for this
+      piece. I just need to keep from touching the painting with too
+      much water, and wait for it to dry adequately.
+
+
+materials:
+  paper:
+    - Arches 140lb Cold Press 9x12
+  paint:
+    - "WN Payne's Grey"
+    - "DS Monte Amiato"
+    - "DS Permanent Alizerin Crimson"
+    - "WN Aereolin (Cobalt Yellow)"
+  brushes:
+    - "Dreamcatcher Round #10"
+    - "Dreamcatcher Round #4"
+    - "Kalinsky Sable #0 rigger"
+    - "1 inch flat"

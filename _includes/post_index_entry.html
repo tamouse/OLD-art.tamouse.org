@@ -1,9 +1,10 @@
-{% assign avatar = post.gallery.images.last.thumb | prepend: post.gallery.path | prepend: site.s3path %}
+{% if post.data %}{% assign gallery = site.data[post.data]["gallery"] %}{% else %}{% assign gallery = post.gallery %}{% endif %}
+{% assign avatar = gallery.images.last.thumb | prepend: gallery.path | prepend: site.s3path %}
 <div class="media"
      style="margin: 10px 0; padding: 5px 0">
   <div class="media-left media-top"
        style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;">
-    {% if post.gallery.images.last %}
+    {% if avatar %}
     <a href="{{ post.url | prepend: site.baseurl }}">
       <img class="media-object"
            src="{{ avatar }}"

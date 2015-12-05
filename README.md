@@ -2,11 +2,6 @@
 
 About time I started one, really.
 
-## Branches
-
-* `master` is the development branch
-* `deploy` is the deployment branch
-
 ## Development
 
 [Recently](https://github.com/tamouse/art_blog/releases/tag/post-gulp)
@@ -40,6 +35,30 @@ $ gulp dist
 This will build the complete distribution and put it in the `_dist`
 directory, which can then be used to push to the 'deploy' branch on
 the remote server.
+
+In the `_dist` directory, which ignored in the project root
+directory's `.gitignore`, make sure you've initialized the remote repo
+(should only need to be done once):
+
+``` bash
+$ cd _dist
+$ git init
+$ git remote add origin <git@remote/path/site.git>
+```
+
+And every time you want to publish:
+
+``` bash
+$ cd _dist
+$ git add --all
+$ git commit -m '2015-12-05-17-13-43'
+$ git push -u origin HEAD
+```
+
+Then the post-receive hook will take care of the rest.
+
+* TODO: add the setup into the `.setup.sh` script.
+* TODO: add the push into the `gulpfile`.
 
 ### Post Receive hook on deployment site
 
