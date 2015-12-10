@@ -15,7 +15,7 @@ gallery:
     gallery: gallery/003-sky-and-water.jpg
     web: webs/003-sky-and-water.jpg
     thumb: thumbs/003-sky-and-water.gif
-    caption: Sky and Water
+    caption: "Session 1: Sky and Water"
     description: |
 
       The picture is a rather somber one, so I put in the sky holding
@@ -58,6 +58,59 @@ gallery:
       piece. I just need to keep from touching the painting with too
       much water, and wait for it to dry adequately.
 
+  - fullsize: 101-overhanging-limbs-and-trees.jpg
+    gallery: gallery/101-overhanging-limbs-and-trees.jpg
+    web: webs/101-overhanging-limbs-and-trees.jpg
+    thumb: thumbs/101-overhanging-limbs-and-trees.gif
+    caption: "Session 2: Overhanging limbs and trees"
+    description: |
+
+      Starting in from last week, I set to in the trees and bushes on
+      the left side of the image with some fresh paint.
+
+      Mixing the Monte Amiato and Payne's Grey, I was never getting it
+      to the lightness I wanted, it never really got above a drab,
+      olive or dead spinach colour. It is definitely better than I
+      left it, as you can see in the comparison in the next image, but
+      still not great.
+
+      Leaving that for a while, I worked on the overhanging branches,
+      giving more of them, and bringing them down further into the
+      picture, which I think gives it a bit more balance.
+
+  - fullsize: 102-comparison.jpg
+    gallery: gallery/102-comparison.jpg
+    web: webs/102-comparison.jpg
+    thumb: thumbs/102-comparison.gif
+    caption: Comparison
+    description: |
+
+      Showing the end of last week with the initial work this week,
+      there is definitely a difference going on. It's still not
+      pleasing me.
+
+
+  - fullsize: 103-remove-paint-to-open-up-trees-and-foreground.jpg
+    gallery: gallery/103-remove-paint-to-open-up-trees-and-foreground.jpg
+    web: webs/103-remove-paint-to-open-up-trees-and-foreground.jpg
+    thumb: thumbs/103-remove-paint-to-open-up-trees-and-foreground.gif
+    caption: Remove paint to open up trees and foreground
+    description: |
+
+      At the teacher's suggestion, I set to remove paint.  After
+      removing a bit of paint overall in the trees, I remove several
+      small triangles. Using the magic eraser, it's fairly easy
+      to remove sections and small areas by taping out the space, then
+      using the wet eraser.
+
+      I removed almost all the foreground paint that would come off as
+      well. The very foreground area needs to be brighter to give the
+      painting depth. The plan for next session is to lay down a base
+      of Quin Gold, then lay the green over that and put back the
+      details.
+
+      It may look like there wasn't any progress, but I am actually
+      feeling good about the direction this is going.
 
 materials:
   paper:
@@ -66,7 +119,7 @@ materials:
     - "WN Payne's Grey"
     - "DS Monte Amiato"
     - "DS Permanent Alizerin Crimson"
-    - "WN Aereolin (Cobalt Yellow)"
+    - "WN Aureolin (Cobalt Yellow)"
   brushes:
     - "Dreamcatcher Round #10"
     - "Dreamcatcher Round #4"
