@@ -4,70 +4,17 @@ title: "Awesome Autumn Colour Painting"
 date: 2014-11-12 17:05
 categories: [watercolour]
 tags: [autumn, colour, painting, class]
-gallery:
-  path: watercolour/class/2014/2014-11-orvis-boat-autumn-color/
-  images:
-  - fullsize: 000-source-colour.jpg
-    gallery: gallery/000-source-colour.jpg
-    web: webs/000-source-colour.jpg
-    thumb: thumbs/000-source-colour.gif
-    caption: Colour Source Photo
-    description: |
-
-      Source photo is from an Orvus catalog. This is the full colour version.
-
-      This came from our teacher, which she found on the web someplace. Rather a gorgeous picture.
-
-  - fullsize: 001-source-values.jpg
-    gallery: gallery/001-source-values.jpg
-    web: webs/001-source-values.jpg
-    thumb: thumbs/001-source-values.gif
-    caption: Values on Source Photo
-    description: |
-
-      I took the image and reduced it to greyscale, adjusting levels, and
-      reducing to 3 colours (Posterize filter) to achieve the equivalent of
-      a value study.
-
-  - fullsize: 010-sky.jpg
-    gallery: gallery/010-sky.jpg
-    web: webs/010-sky.jpg
-    thumb: thumbs/010-sky.gif
-    caption: Sky
-    description: "Painting in the sky, which isn't in the source photo, in addition to other changes I've made in the composition."
-  - fullsize: 020-water.jpg
-    gallery: gallery/020-water.jpg
-    web: webs/020-water.jpg
-    thumb: thumbs/020-water.gif
-    caption: Water
-    description: "The water is next, working my way down the face of the painting. There's a bit of reflection from the sky in the water."
-  - fullsize: 030-boat.jpg
-    gallery: gallery/030-boat.jpg
-    web: webs/030-boat.jpg
-    thumb: thumbs/030-boat.gif
-    caption: "Boat"
-    description: "Getting the boat in, with it's rather typical green marine paint, was sort of hard getting the colour right with watercolours."
-  - fullsize: 040-boat-trim.jpg
-    gallery: gallery/040-boat-trim.jpg
-    web: webs/040-boat-trim.jpg
-    thumb: thumbs/040-boat-trim.gif
-    caption: "Boat Trim"
-    description: "The boat's trim is a rather rich golden colour, with some contrasts for the interior portions of the boat."
-  - fullsize: 050-review.jpg
-    gallery: gallery/050-review.jpg
-    web: webs/050-review.jpg
-    thumb: thumbs/050-review.gif
-    caption: "Class review"
-    description: "No significant changes from the last photo, this is just up on the wall for class critique and review."
 
 ---
-{% assign gallery_path = site.s3path | append: page.gallery.path %}
 
 We started working on a new painting today, exploring autumn colours.
 
-Work in progress on a painting in class:
-
-![]({{gallery_path}}{{page.gallery.images.last.web}})
+{% assign data = page.path | split:"/" | last | split:"." | first %}
+{% assign data = site.data[data] %}
+{% assign gallery = data.gallery %}
+{% assign materials = data.materials %}
+{% assign gallery_path = site.s3path | append: gallery.path %}
+{% assign images = gallery.images %}
 
 ## Recomposition/Redesign
 
@@ -85,7 +32,7 @@ Definitely going to keep the autumn colour going.
 
 ## Steps
 
-{% for image in page.gallery.images %}
+{% for image in images %}
 {% include image_entry.html %}
 {% endfor %}
 

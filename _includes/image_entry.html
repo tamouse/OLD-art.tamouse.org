@@ -1,33 +1,33 @@
-<div class="media">
-  <a name="{{ image.caption | slugify }}"></a>
-  <div class="media-left">
-    <a class="fancybox"
-       href="{{image.web | prepend: gallery_path}}"
-       rel="post-group"
-       title="{{image.caption}}">
-      <img class="media-object"
-           src="{{image.thumb | prepend: gallery_path}}"
-           alt="{{image.caption}}"></a>
-  </div>
-  <div class="media-body">
-    {% if image.caption %}
-    <h4 class="media-heading">
-      <a class="fancybox"
-         href="{{image.web | prepend: gallery_path}}"
-         title="{{image.caption}}"
-	 rel="post-caption">
-        {{image.caption}}
+<a name="{{ image.caption | slugify }}">
+<div class="panel panel-primary image-item">
+  <div class="panel-heading text-center">
+    <h3 class="panel-title">
+      {% if image.caption  %}{{ image.caption}}{% else %}[no caption]{% endif %}
+      <br />
+      <small><em>
+      <a href="{{ image.fullsize | prepend: gallery_path }}"
+	 target="_blank"
+	 title="Click for full sized image"
+	 class="lighten">
+	full size
       </a>
-    </h4>
-    {% else %}
-    <p><em>no caption</em></p>
-    <p><em>[<a href="{{ image.web | prepend: gallery_path }}">embiggen</a></em>]</p>
-    {% endif %}
-    {% if image.description %}
-    <p>{{ image.description | markdownify }}</p>
-    {% else %}
-    <p><em>no description.</em></p>
-    {% endif %}
-    <p><em>[<a target="_blank" href="{{image.fullsize | prepend: gallery_path}}">full size</a>]</em></p>
+      </em></small>
+    </h3>
+  </div>
+  <div class="panel-body">
+    <a class="fancybox"
+       href="{{ image.web | prepend: gallery_path }}"
+       rel="post-group"
+       title="{{ image.caption }}"
+       >
+      <img class="img-responsive white-border"
+	   src="{{ image.gallery | prepend: gallery_path }}"
+	   alt="{{ image.caption }}"
+	   title="{{ image.caption }}"
+	   >
+      <br />
+      <p class="text-center"><small>click on image for slideshow</small></p>
+    </a>
+    <p>{% if image.description %}{{ image.description | markdownify}}{% endif %}</p>
   </div>
 </div>

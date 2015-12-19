@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Ski Scene"
+date: 2010-10-12
+categories: ["watercolour", "class"]
+tags: ["landscape", "winter"]
+
 ---
 
-Introductory words, excerpt goes here.
+Second  ever actual painting in TPAC Watercolour class taught by [Linda S](http://linda-stout.artistwebsites.com/)
 
 {% assign data = page.path | split:"/" | last | split:"." | first %}
 {% assign data = site.data[data] %}
@@ -21,15 +22,18 @@ Introductory words, excerpt goes here.
 
 ## Steps
 
-{% for image in page.gallery.images %}
+{% for image in images %}
 {% include image_entry.html %}
 {% endfor %}
 
 *******
 
 ## Materials
-{% for material in materials %}
-### {{ material.first }}
-{% for item in material.last %}
-* {{ item }}{% endfor %}
-{% endfor %}
+
+### Paper
+
+* Arches 9x12 140lb cold press block
+
+### Paints
+
+* Prang student watercolour set

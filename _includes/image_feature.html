@@ -1,0 +1,12 @@
+<!-- ![{{images.last.caption}}]({{ images.last.web | prepend: gallery_path }} "{{images.last.caption}}") -->
+<!-- {:.fancy-img-markdown} -->
+
+
+<div class="panel panel-primary">
+  <div class="panel-body">
+    <img src="{{ include.image.fullsize | prepend: gallery_path }}"
+	 class="img-responsive white-border"
+	 alt="{{ include.image.caption}}"
+	 />
+  </div>
+</div>

@@ -9,11 +9,14 @@ ul.link-list {
     }
 }
 
-img { max-width: 100%; }
+.lighten { color: $grey-lighter; }
+.white-border { border: 1px solid white; }
+.black-border { border: 1px solid black; }
+.grey-border, .gray-border { border: 1px solid $grey-dark; }
 
 .fancy-img {
     max-width: 100%;
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 2px;
     display: block;
     margin: 2px auto;
@@ -31,13 +34,34 @@ img { max-width: 100%; }
     }
 }
 
+.image-item {
+    img {
+	@extend .img-responsive;
+	margin: 0 auto;
+    }
+}
+
+
+
 .hide-on-mobile {
     display: none;
 }
 
-.responsive-image-markdown > img {
-    @extend .img-responsive;
-    text-align: center;
+.responsive-image-markdown {
+    img {
+	@extend .img-responsive;
+	text-align: center;
+    }
+}
+
+.fancy-img-markdown {
+    img {
+	@extend .img-responsive;
+	border: 1px solid white;
+	padding: 2px;
+	display: block;
+	margin: 2px auto;
+    }
 }
 
 .media-object {

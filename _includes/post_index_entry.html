@@ -1,5 +1,16 @@
-{% if post.data %}{% assign gallery = site.data[post.data]["gallery"] %}{% else %}{% assign gallery = post.gallery %}{% endif %}
+{% if post.gallery %}
+{% assign gallery = post.gallery %}
+{% else %}
+{% if post.data %}
+{% assign gallery = site.data[post.data].gallery %}
+{% else %}
+{% assign datafile = post.path | split:"/" | last | split:"." | first %}
+{% assign gallery = site.data[datafile].gallery %}
+{% endif %}
+{% endif %}
+{% if gallery %}
 {% assign avatar = gallery.images.last.thumb | prepend: gallery.path | prepend: site.s3path %}
+{% endif %}
 <div class="media"
      style="margin: 10px 0; padding: 5px 0">
   <div class="media-left media-top"
@@ -27,6 +38,7 @@
       {% for tag in post.tags %}<li><a href="{{site.baseurl}}/tags/{{tag}}">{{tag}}</a></li>{% endfor %}
       {% endif %}
     </ol>
-    {% if post.excerpt %}<p>{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}{{ post.excerpt | markdownify }}{% endif %}
   </div>
 </div>
+{% assign avatar = '' %}
