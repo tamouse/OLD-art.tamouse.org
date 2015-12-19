@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Painting Class: Ice Fjord Village"
 date: 2015-01-15 01:53
@@ -6,79 +7,6 @@ categories: ["watercolour"]
 tags: ["class"]
 source: https://500px.com/photo/83926373/ice-fjord-village-by-Örvar-atli
 thumbnail: http://tt.imageshare.s3.amazonaws.com/art/ice-fjord-painting/2015-01-15-home-20150115_011538.jpg
-gallery:
-  path: "watercolour/class/2015/2015-01-ice-fjord/"
-  images:
-    - fullsize: org-screen-shot.jpg
-      gallery: gallery/org-screen-shot.jpg
-      web: webs/org-screen-shot.jpg
-      thumb: thumbs/org-screen-shot.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: original-photo-ice-fjord-village-500px-orvar-atli.jpg
-      gallery: gallery/original-photo-ice-fjord-village-500px-orvar-atli.jpg
-      web: webs/original-photo-ice-fjord-village-500px-orvar-atli.jpg
-      thumb: thumbs/original-photo-ice-fjord-village-500px-orvar-atli.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150107_145322.jpg
-      gallery: gallery/20150107_145322.jpg
-      web: webs/20150107_145322.jpg
-      thumb: thumbs/20150107_145322.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150107_150235.jpg
-      gallery: gallery/20150107_150235.jpg
-      web: webs/20150107_150235.jpg
-      thumb: thumbs/20150107_150235.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150114_135320.jpg
-      gallery: gallery/20150114_135320.jpg
-      web: webs/20150114_135320.jpg
-      thumb: thumbs/20150114_135320.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150114_141613.jpg
-      gallery: gallery/20150114_141613.jpg
-      web: webs/20150114_141613.jpg
-      thumb: thumbs/20150114_141613.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150114_205524.jpg
-      gallery: gallery/20150114_205524.jpg
-      web: webs/20150114_205524.jpg
-      thumb: thumbs/20150114_205524.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150115_011538.jpg
-      gallery: gallery/20150115_011538.jpg
-      web: webs/20150115_011538.jpg
-      thumb: thumbs/20150115_011538.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 20150121_141320.jpg
-      gallery: gallery/20150121_141320.jpg
-      web: webs/20150121_141320.jpg
-      thumb: thumbs/20150121_141320.gif
-      caption: ""
-      description: >-
-        blah
-    - fullsize: 2015-01-21-class-20150121_141731-enhanced-perspective.jpg
-      gallery: gallery/2015-01-21-class-20150121_141731-enhanced-perspective.jpg
-      web: webs/2015-01-21-class-20150121_141731-enhanced-perspective.jpg
-      thumb: thumbs/2015-01-21-class-20150121_141731-enhanced-perspective.gif
-      caption: "Final Version"
-      description: >-
-        Final version of painting.
 
 original: http://tt.imageshare.s3.amazonaws.com/art/ice-fjord-painting/original-photo-ice-fjord-village-500px-orvar-atli.jpg
 day1:

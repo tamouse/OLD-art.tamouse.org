@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Native Dress"
 date: 2015-02-18

@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Flowers in a Frame"
 date: 2015-09-02 20:30

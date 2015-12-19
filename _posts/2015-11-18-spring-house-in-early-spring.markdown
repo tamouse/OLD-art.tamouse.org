@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Spring House in Early Spring"
 date: 2015-11-18 21:53

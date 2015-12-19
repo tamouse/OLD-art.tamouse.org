@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Bee and Flower"
 date: 2015-07-15 21:57

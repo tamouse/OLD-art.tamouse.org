@@ -1,0 +1,37 @@
+{% if include.item.gallery %}
+{% assign gallery = include.item.gallery %}
+{% else %}
+{% if include.item.data %}
+{% assign gallery = site.data[include.item.data].gallery %}
+{% else %}
+{% assign datafile = include.item.path | split:"/" | last | split:"." | first %}
+{% assign gallery = site.data[datafile].gallery %}
+{% endif %}
+{% endif %}
+{% assign featured_image = gallery.images.last %}
+{% assign featured_image_path = gallery.path %}
+{% assign weburl = featured_image.web | prepend: featured_image_path | prepend: site.s3path %}
+{% assign galleryurl = featured_image.gallery | prepend: featured_image_path | prepend: site.s3path %}
+<figure class="figure">
+  <a href="{{ weburl }}"
+     class="fancybox"
+     rel="gal-group"
+     alt="{{include.item.title}}"
+     title="{{include.item.title}}"
+     >
+    <img src="{{ galleryurl }}"
+	 alt="{{ include.item.title}}"
+	 class="img-responsive fancy-img"
+	 />
+  </a>
+  <figcaption class="text-center">
+  <a href="{{include.item.url}}"
+     alt="{{include.item.title}}"
+     title="{{include.item.title}}"
+     >
+    {{include.item.title}}
+    <br />
+    {{include.item.date | date_to_string}}
+  </a>
+  </figcaption>
+</figure>

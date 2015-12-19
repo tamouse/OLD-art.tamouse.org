@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Orange Rose"
 date: 2015-05-20 18:27

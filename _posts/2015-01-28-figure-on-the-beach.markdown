@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Figure on the Beach"
 date: 2015-01-28

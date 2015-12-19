@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Horse, Barn, and Evergreen"
 date: 2015-10-14 23:50

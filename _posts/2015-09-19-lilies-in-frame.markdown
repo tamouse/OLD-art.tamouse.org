@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Lilies in Frame"
 date: 2015-09-19 21:41

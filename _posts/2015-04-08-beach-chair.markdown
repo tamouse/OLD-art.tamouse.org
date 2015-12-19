@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Beach Chair"
 date: 2015-04-08 18:02
