@@ -21,7 +21,7 @@ Introductory words, excerpt goes here.
 
 ## Steps
 
-{% for image in page.gallery.images %}
+{% for image in images %}
 {% include image_entry.html %}
 {% endfor %}
 
