@@ -1,0 +1,68 @@
+---
+materials:
+  Paper:
+    - Moleskine watercolour sketch book
+    - Arches 140lb cold press block, 9x12
+  Paints:
+    - Quin Scarlet
+    - Alizerin Crimson
+    - Chromatic black (Fr.Ultra and QBO)
+  Brushes:
+    - "Dreamcatcher #10 round"
+
+gallery:
+  path: watercolour/class/2014/2014-09-10-cardinal-christmas-card/
+  images:
+  - fullsize: 000-source-image.jpg
+    gallery: gallery/000-source-image.jpg
+    web: webs/000-source-image.jpg
+    thumb: thumbs/000-source-image.gif
+    caption:  Source Image
+    description: |
+
+      The source image from our teacher.
+
+  - fullsize: 001-initial-pencil-sketches.jpg
+    gallery: gallery/001-initial-pencil-sketches.jpg
+    web: webs/001-initial-pencil-sketches.jpg
+    thumb: thumbs/001-initial-pencil-sketches.gif
+    caption:  Initial Pencil Sketches
+    description: |
+
+      Some coloured pencil sketches.
+
+  - fullsize: 002-cardinal-quick-watercolour-sketch-sumi-e-sorta.jpg
+    gallery: gallery/002-cardinal-quick-watercolour-sketch-sumi-e-sorta.jpg
+    web: webs/002-cardinal-quick-watercolour-sketch-sumi-e-sorta.jpg
+    thumb: thumbs/002-cardinal-quick-watercolour-sketch-sumi-e-sorta.gif
+    caption:  Cardinal Quick Watercolour Sketch
+    description: |2+
+
+      A practice colour sketch.
+
+  - fullsize: 003-cardinal-quick-composition-sumi-e-sorta.jpg
+    gallery: gallery/003-cardinal-quick-composition-sumi-e-sorta.jpg
+    web: webs/003-cardinal-quick-composition-sumi-e-sorta.jpg
+    thumb: thumbs/003-cardinal-quick-composition-sumi-e-sorta.gif
+    caption:  Cardinal Quick Composition Sumi E Sorta
+    description: |2+
+
+      Practice again, using some more Sumi-E techniques.
+
+  - fullsize: 010-final.png
+    gallery: gallery/010-final.jpg
+    web: webs/010-final.jpg
+    thumb: thumbs/010-final.gif
+    caption:  Final
+    description: |
+
+      Final painted version.
+
+  - fullsize: 020-greeting-card.png
+    gallery: gallery/020-greeting-card.jpg
+    web: webs/020-greeting-card.jpg
+    thumb: thumbs/020-greeting-card.gif
+    caption:  Greeting Card
+    description: |
+
+      This is the image submitted to the printer for the cards.
