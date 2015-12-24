@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Thirty second painting barn"
+date: 2014-09-24 16:33
+categories: ["watercolour", "class"]
+tags: ["fast"]
+
 ---
 
-Introductory words, excerpt goes here.
+In class one session, everyone was working on this barn, and I was
+doing something else (I don't remember what it was). I finished that
+up, and there wasn't much time left in class, and I had just read
+something about an artist doing this sort of "flash painting" and so I
+just tried it.  It's okay. :)
 
-{% if page.data %}{% assign data = page.data %}
-{% else %}
 {% assign data = page.path | split:"/" | last | split:"." | first %}
-{% endif %}
 {% assign data = site.data[data] %}
 {% assign gallery = data.gallery %}
 {% assign materials = data.materials %}

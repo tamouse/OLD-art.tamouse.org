@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Heron in Spring"
+date: 2014-04-02 01:31
+categories: [watercolour, class]
+tags: [watercolour, class, heron, bird, figure]
+
 ---
 
-Introductory words, excerpt goes here.
+The class painted a heron.
 
-{% if page.data %}{% assign data = page.data %}
-{% else %}
+I'm not sure why "in Spring" but we did it in April, so maybe that's it.
+
 {% assign data = page.path | split:"/" | last | split:"." | first %}
-{% endif %}
 {% assign data = site.data[data] %}
 {% assign gallery = data.gallery %}
 {% assign materials = data.materials %}
@@ -19,6 +19,9 @@ Introductory words, excerpt goes here.
 {% assign images = gallery.images %}
 
 {% include image_feature.html image=images.last %}
+
+I could not seem to get the phone camera to focus properly. :(
+
 
 *******
 

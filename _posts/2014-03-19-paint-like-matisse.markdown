@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Paint Like Matisse"
+date: 2014-03-19 02:16
+categories: [watercolour, class]
+tags: [watercolour, class, matisse, green-eye-lady]
+
+
 ---
 
-Introductory words, excerpt goes here.
+We were all enamoured of the Matisse show at the Minneapolis Institute
+of Arts, so we tried to do a "Paint Like Matisse Day."
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -17,8 +20,6 @@ Introductory words, excerpt goes here.
 {% assign materials = data.materials %}
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
-
-{% include image_feature.html image=images.last %}
 
 *******
 

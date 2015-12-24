@@ -1,0 +1,47 @@
+---
+featured: true
+layout: post
+title: "Pier"
+date: 2014-04-23 23:43
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "landscape", "seascape", "pier", "melbourne", "2008", "original"]
+
+---
+
+### Pier on the way to Philip's Bay, Melbourne, Victoria
+
+{% assign data = page.path | split:"/" | last | split:"." | first %}
+{% assign data = site.data[data] %}
+{% assign gallery = data.gallery %}
+{% assign materials = data.materials %}
+{% assign gallery_path = site.s3path | append: gallery.path %}
+{% assign images = gallery.images %}
+
+{% include image_feature.html image=images.last %}
+
+On a trip to Melbourne, Victoria, Australia, in 2008, my friends and I
+took a day trip down to Philip's Bay to visit the Faerie Penguins,
+Koalas, and generally have a great drive.
+
+This pier was along the road at one point, and I'm pretty sure I just
+snapped this out the window as we were speeding by. (Aussie's drive on
+the left.)
+
+I entered this is a show once, but was not selected.
+
+*******
+
+## Steps
+
+{% for image in images %}
+{% include image_entry.html %}
+{% endfor %}
+
+*******
+
+## Materials
+{% for material in materials %}
+### {{ material.first }}
+{% for item in material.last %}
+* {{ item }}{% endfor %}
+{% endfor %}

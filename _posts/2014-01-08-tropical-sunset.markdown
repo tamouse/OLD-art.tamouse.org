@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Tropical Sunset"
+date: 2014-01-08 03:57
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "sunset"]
+
 ---
 
-Introductory words, excerpt goes here.
+I'm not sure what was going on here. I started this but never
+finished. I *may* have been wishing for a tropical vacation in
+January, like usual.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -20,13 +23,7 @@ Introductory words, excerpt goes here.
 
 {% include image_feature.html image=images.last %}
 
-*******
-
-## Steps
-
-{% for image in images %}
-{% include image_entry.html %}
-{% endfor %}
+{{ images.last.description }}
 
 *******
 

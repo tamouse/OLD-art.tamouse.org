@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Chesapeake Sunrise over Pier"
+date: 2014-10-29 03:44
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "seascape", "chesapeake", "pier", "water", "light"]
+
 ---
 
-Introductory words, excerpt goes here.
+I found this photo on facebook, and I just fell in love with it. I
+especially love the lights on the pier reflecting in to the water.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -19,6 +21,10 @@ Introductory words, excerpt goes here.
 {% assign images = gallery.images %}
 
 {% include image_feature.html image=images.last %}
+
+I think I want to try this again, only get closer to the original's
+sky colouring.
+
 
 *******
 

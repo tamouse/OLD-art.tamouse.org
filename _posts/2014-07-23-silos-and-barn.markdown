@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Silos and Barn"
+date: 2014-07-23 17:48
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "landscape", "rural", "silos-and-barn"]
+
 ---
 
-Introductory words, excerpt goes here.
+Interesting subject, and the work here was to get a good sense of using shading to make the silos round.
 
-{% if page.data %}{% assign data = page.data %}
-{% else %}
 {% assign data = page.path | split:"/" | last | split:"." | first %}
-{% endif %}
 {% assign data = site.data[data] %}
 {% assign gallery = data.gallery %}
 {% assign materials = data.materials %}

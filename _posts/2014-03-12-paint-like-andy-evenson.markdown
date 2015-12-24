@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Paint like Andy Evenson"
+date: 2014-03-12 02:42
+categories: [watercolour, class]
+tags: [watercolour, class, andy-evenson]
+
 ---
 
-Introductory words, excerpt goes here.
+Our teacher, Linda, is taking a class from Andy Evenson, so we worked in his technique a bit.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -18,7 +19,7 @@ Introductory words, excerpt goes here.
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
 
-{% include image_feature.html image=images.last %}
+Another lesson I never completed.
 
 *******
 

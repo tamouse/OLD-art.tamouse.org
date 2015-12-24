@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Tulips"
+date: 2014-04-09 00:36
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "flowers", "botanical", "tulips"]
+
 ---
 
-Introductory words, excerpt goes here.
+I completely forget the point of this session.
 
-{% if page.data %}{% assign data = page.data %}
-{% else %}
 {% assign data = page.path | split:"/" | last | split:"." | first %}
-{% endif %}
 {% assign data = site.data[data] %}
 {% assign gallery = data.gallery %}
 {% assign materials = data.materials %}

@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "An Exercise in Working Fast and Loose"
+date: 2014-03-05 02:59
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "exercise", "fast-n-loose"]
+data: 2014-03-05-exercise
+
 ---
 
-Introductory words, excerpt goes here.
+An exercise in working fast and loose.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -17,8 +19,6 @@ Introductory words, excerpt goes here.
 {% assign materials = data.materials %}
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
-
-{% include image_feature.html image=images.last %}
 
 *******
 

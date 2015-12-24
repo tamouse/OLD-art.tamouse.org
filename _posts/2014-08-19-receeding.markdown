@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "<%= @title %>"
-date: <%= @date %> <%= @time %>
-categories: <%= @categories %>
-tags: <%= @tags %>
+title: "Exercise: Receeding Into the Distance"
+date: 2014-08-19 17:30
+categories: ["watercolour", "class"]
+tags: ["watercolour", "class", "receeding", "distance", "exercise"]
+
 ---
 
-Introductory words, excerpt goes here.
+By request, the class worked on an exercise in showing distance, making the subject receed into the distance.
 
-{% if page.data %}{% assign data = page.data %}
-{% else %}
 {% assign data = page.path | split:"/" | last | split:"." | first %}
-{% endif %}
 {% assign data = site.data[data] %}
 {% assign gallery = data.gallery %}
 {% assign materials = data.materials %}
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
 
-{% include image_feature.html image=images.last %}
+The last image is where I abandoned the exercise.
+
+The techniques will come back with the ["Ice Fjord Village"]({% post_url 2015-01-15-painting-class-ice-fjord-village %}).
 
 *******
 

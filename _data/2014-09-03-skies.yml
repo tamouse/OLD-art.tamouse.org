@@ -1,0 +1,42 @@
+---
+gallery:
+  path: watercolour/class/2014/2014-09-03-skies/
+  images:
+  - fullsize: skies1.png
+    gallery: gallery/skies1.jpg
+    web: webs/skies1.jpg
+    thumb: thumbs/skies1.gif
+    caption: Skies1
+    description: |
+
+      practice sky 1
+
+  - fullsize: skies2.png
+    gallery: gallery/skies2.jpg
+    web: webs/skies2.jpg
+    thumb: thumbs/skies2.gif
+    caption: Skies2
+    description: |
+
+      practice sky 2
+
+  - fullsize: skies3.png
+    gallery: gallery/skies3.jpg
+    web: webs/skies3.jpg
+    thumb: thumbs/skies3.gif
+    caption: Skies3
+    description: |
+
+      practice sky 3
+
+materials:
+  Paper:
+    - Arches 140lb cold press, 9x12 (split in half)
+  Paint:
+    - "payne's grey"
+    - cobalt blue
+    - aureolin
+    - permanent rose
+    - chromatic black mixture of fr. ultra and QBO
+  Brushes:
+    - "Dreamcatcher #10 round"

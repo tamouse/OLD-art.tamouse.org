@@ -1,0 +1,44 @@
+---
+gallery:
+  path: watercolour/class/2014/2014-10-08-negative-painting-leaves/
+  images:
+  - fullsize: 001-first-layer-20141001_145715.jpg
+    gallery: gallery/001-first-layer-20141001_145715.jpg
+    web: webs/001-first-layer-20141001_145715.jpg
+    thumb: thumbs/001-first-layer-20141001_145715.gif
+    caption: First Layer
+    description: |
+
+      Create a pale underpainting, wet-into-wet, using Quin Burnt
+      Orange (for Burnt Sienna), French Ultramarine Blue (for Cerulean
+      Blue), and Phthalo Green (for Winsor Green).
+
+  - fullsize: 003-second-layer-20141008_134900.jpg
+    gallery: gallery/003-second-layer-20141008_134900.jpg
+    web: webs/003-second-layer-20141008_134900.jpg
+    thumb: thumbs/003-second-layer-20141008_134900.gif
+    caption: Second Layer
+    description: |
+
+      After underpainting is dry, draw in the leaf and stems. Going
+      wet-into-wet again, fill in the negative space with more value.
+
+  - fullsize: 005-final.jpg
+    gallery: gallery/005-final.jpg
+    web: webs/005-final.jpg
+    thumb: thumbs/005-final.gif
+    caption: Final
+    description: |
+
+      Signed, straightened, leveled.
+
+
+materials:
+  Paper:
+    - Arches 140lb cold press 7x10
+  Paint:
+    - DS French Ultramarine Blue
+    - DS Quin Burnt Orange
+    - DS Phthalo Green
+  Brushes:
+    - "Dreamcatcher #10 round"

@@ -1,0 +1,104 @@
+---
+gallery:
+  path: watercolour/class/2014/2014-08-19-receeding/
+  images:
+  - fullsize: 000-subject.jpg
+    gallery: gallery/000-subject.jpg
+    web: webs/000-subject.jpg
+    thumb: thumbs/000-subject.gif
+    caption: 000 Subject
+    description: |2+
+
+      An exercise out of a book.
+
+  - fullsize: 001-sketch.jpg
+    gallery: gallery/001-sketch.jpg
+    web: webs/001-sketch.jpg
+    thumb: thumbs/001-sketch.gif
+    caption: 001 Sketch
+    description: |2+
+
+      First sketch of the composition, changed a little bit to
+      (hopefully) put the buildings in a nicer arrangement.
+
+  - fullsize: 003-sky.jpg
+    gallery: gallery/003-sky.jpg
+    web: webs/003-sky.jpg
+    thumb: thumbs/003-sky.gif
+    caption: 003 Sky
+    description: |2+
+
+      Start with the sky.
+
+  - fullsize: 004-sky-hills-water.jpg
+    gallery: gallery/004-sky-hills-water.jpg
+    web: webs/004-sky-hills-water.jpg
+    thumb: thumbs/004-sky-hills-water.gif
+    caption: 004 Sky Hills Water
+    description: |2+
+
+      Add in the reward hills and water.
+
+  - fullsize: 005-recede-hills.jpg
+    gallery: gallery/005-recede-hills.jpg
+    web: webs/005-recede-hills.jpg
+    thumb: thumbs/005-recede-hills.gif
+    caption: 005 Recede Hills
+    description: |2+
+
+      Take some paint off the hills to let them fade more into the
+      distance. Punched up the sky a little to make more of contrast.
+
+  - fullsize: 006-deepen-nearer-hills.jpg
+    gallery: gallery/006-deepen-nearer-hills.jpg
+    web: webs/006-deepen-nearer-hills.jpg
+    thumb: thumbs/006-deepen-nearer-hills.gif
+    caption: 006 Deepen Nearer Hills
+    description: |2+
+
+      Give the nearer hills a little more value.
+
+  - fullsize: 008-green-hills-middle.jpg
+    gallery: gallery/008-green-hills-middle.jpg
+    web: webs/008-green-hills-middle.jpg
+    thumb: thumbs/008-green-hills-middle.gif
+    caption: 008 Green Hills Middle
+    description: |2+
+
+      Add in the near shore hills which have more greenery visible.
+
+  - fullsize: 010-foreground-veg.jpg
+    gallery: gallery/010-foreground-veg.jpg
+    web: webs/010-foreground-veg.jpg
+    thumb: thumbs/010-foreground-veg.gif
+    caption: 010 Foreground Veg
+    description: |2+
+
+      Paint in the foreground with vegetation, rocks, drive, trying to
+      give it more of an interest and focus.
+
+  - fullsize: 012-buildings.jpg
+    gallery: gallery/012-buildings.jpg
+    web: webs/012-buildings.jpg
+    thumb: thumbs/012-buildings.gif
+    caption: 012 Buildings
+    description: |2+
+
+      Start on the buildings' black roofs.
+
+      Work on this exercise abandoned here. The techniques will come
+      back again in Ice Fjord Village.
+
+materials:
+  Paint:
+    - french ultramarine
+    - quin burnt orange
+    - chromatic black mixture of the two above
+    - cobalt blue
+    - phthalo green
+    - aureolin
+  Paper:
+    - Arches 140lb cold press, 9x12
+  Brushes:
+    - "Dreamcatcher #10 round"
+    - "Dreamcatcher #4 round"

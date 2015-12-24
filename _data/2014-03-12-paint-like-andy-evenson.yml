@@ -1,0 +1,64 @@
+---
+materials:
+  Paper:
+    - Arches 140lb cold press, 9x12
+  Paint:
+    - Aureolin (cobalt yellow)
+    - Quin Burnt Orange
+    - Permanent Rose
+    - Cobalt Blue
+    - Neutral Tint
+  Brushes:
+    - 'Dreamcatcher #10 Round'
+
+gallery:
+  path: watercolour/class/2014/2014-03-12-paint-like-andy-evenson/
+  images:
+  - fullsize: 010-linda-demo-light-wash.jpg
+    gallery: gallery/010-linda-demo-light-wash.jpg
+    web: webs/010-linda-demo-light-wash.jpg
+    thumb: thumbs/010-linda-demo-light-wash.gif
+    caption: Linda Demo Light Wash
+    description: |2+
+
+      Linda, our teacher, did a demo of Andy's technique.
+
+      Here is the first, light wash that he does using a bouquet of flowers as a subject.
+
+  - fullsize: 011-linda-demo-colour-wash.jpg
+    gallery: gallery/011-linda-demo-colour-wash.jpg
+    web: webs/011-linda-demo-colour-wash.jpg
+    thumb: thumbs/011-linda-demo-colour-wash.gif
+    caption: Linda Demo Colour Wash
+    description: |2+
+
+      This is the second wash Andy does, the one with a midtone colour values.
+
+      Sometimes, Andy does a third wash of darks.
+
+  - fullsize: 020-value-study.jpg
+    gallery: gallery/020-value-study.jpg
+    web: webs/020-value-study.jpg
+    thumb: thumbs/020-value-study.gif
+    caption: Value Study
+    description: |2+
+
+      A simple value study of the piece of Andy's I'm copying, done with Neutral Tint.
+
+  - fullsize: 021-sketch.jpg
+    gallery: gallery/021-sketch.jpg
+    web: webs/021-sketch.jpg
+    thumb: thumbs/021-sketch.gif
+    caption: Sketch
+    description: |2+
+
+      Sketch of the painting, keeping it simple.
+
+  - fullsize: 022-colour-study.jpg
+    gallery: gallery/022-colour-study.jpg
+    web: webs/022-colour-study.jpg
+    thumb: thumbs/022-colour-study.gif
+    caption: Colour Study
+    description: |2+
+
+      Colour study using the sketch.

@@ -1,0 +1,21 @@
+---
+gallery:
+  path: watercolour/class/2014/2014-09-24-thirty-second-painting-barn/
+  images:
+  - fullsize: 001-thirty-second-barn.jpg
+    gallery: gallery/001-thirty-second-barn.jpg
+    web: webs/001-thirty-second-barn.jpg
+    thumb: thumbs/001-thirty-second-barn.gif
+    caption: Thirty Second Barn
+    description: |
+
+      Just the bare sketch of the barn. Fairly abstract, but you can tell what it is.
+
+  - fullsize: 002-cropped-straightened.jpg
+    gallery: gallery/002-cropped-straightened.jpg
+    web: webs/002-cropped-straightened.jpg
+    thumb: thumbs/002-cropped-straightened.gif
+    caption: Cropped and Straightened
+    description: |
+
+      Same picture, just cropped and straightened in photoshop.

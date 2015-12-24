@@ -1,0 +1,166 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Sap Green
+  - Phthalo Green
+  - Permanent Rose
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+
+gallery:
+  path: watercolour/class/2014/2014-10-29-chesapeake-sunrise-over-pier/
+  images:
+  - fullsize: 000-source-photo-sunrise-pier-chesapeake-bay.jpg
+    gallery: gallery/000-source-photo-sunrise-pier-chesapeake-bay.jpg
+    web: webs/000-source-photo-sunrise-pier-chesapeake-bay.jpg
+    thumb: thumbs/000-source-photo-sunrise-pier-chesapeake-bay.gif
+    caption: Source Photo Sunrise Pier Chesapeake Bay
+    description: |2+
+
+      Sunrise over a pier on the Chesapeake Bay
+
+  - fullsize: 001-sky-20141015-141044.jpg
+    gallery: gallery/001-sky-20141015-141044.jpg
+    web: webs/001-sky-20141015-141044.jpg
+    thumb: thumbs/001-sky-20141015-141044.gif
+    caption: Sky
+    description: |2+
+
+      Doing the sky. I love skies. This is brighter than the photo.
+
+  - fullsize: 002-reflections-from-pylon-lights-20141015-145023.jpg
+    gallery: gallery/002-reflections-from-pylon-lights-20141015-145023.jpg
+    web: webs/002-reflections-from-pylon-lights-20141015-145023.jpg
+    thumb: thumbs/002-reflections-from-pylon-lights-20141015-145023.gif
+    caption: Reflections From Pylon Lights
+    description: |2+
+
+      The lights on the pier pylons were what attracted me most to this picture.
+      I'm putting in the lighted reflections first to make sure they have a nice bright glow.
+
+  - fullsize: 003-water-20141029-141750.jpg
+    gallery: gallery/003-water-20141029-141750.jpg
+    web: webs/003-water-20141029-141750.jpg
+    thumb: thumbs/003-water-20141029-141750.gif
+    caption: Water
+    description: |2+
+
+      The water is fairly light wash, varying from pinkish to blueish, reflecting the sky.
+
+  - fullsize: 004-title-20141029-191822.jpg
+    gallery: gallery/004-title-20141029-191822.jpg
+    web: webs/004-title-20141029-191822.jpg
+    thumb: thumbs/004-title-20141029-191822.gif
+    caption: Water
+    description: |2+
+
+      Just a different view from above.
+
+  - fullsize: 005-foreground-20141029-144015.jpg
+    gallery: gallery/005-foreground-20141029-144015.jpg
+    web: webs/005-foreground-20141029-144015.jpg
+    thumb: thumbs/005-foreground-20141029-144015.gif
+    caption: Foreground
+    description: |2+
+
+      Painting in the foreground bits.
+
+  - fullsize: 006-foreground-20141029-194022.jpg
+    gallery: gallery/006-foreground-20141029-194022.jpg
+    web: webs/006-foreground-20141029-194022.jpg
+    thumb: thumbs/006-foreground-20141029-194022.gif
+    caption: Foreground
+    description: |2+
+
+      More foreground.
+
+  - fullsize: 007-foreground-20141029-145141.jpg
+    gallery: gallery/007-foreground-20141029-145141.jpg
+    web: webs/007-foreground-20141029-145141.jpg
+    thumb: thumbs/007-foreground-20141029-145141.gif
+    caption: Foreground
+    description: |2+
+
+      And more foreground.
+
+  - fullsize: 008-foreground-20141029-195154.jpg
+    gallery: gallery/008-foreground-20141029-195154.jpg
+    web: webs/008-foreground-20141029-195154.jpg
+    thumb: thumbs/008-foreground-20141029-195154.gif
+    caption: Foreground
+    description: |2+
+
+      And yes, even more foreground.
+
+  - fullsize: 009-pier-20141105-135343.jpg
+    gallery: gallery/009-pier-20141105-135343.jpg
+    web: webs/009-pier-20141105-135343.jpg
+    thumb: thumbs/009-pier-20141105-135343.gif
+    caption: Pier
+    description: |2+
+
+      Putting in the pier, matching the lamps to the glowing reflections.
+      Learning to keep things a bit more random, not perfectly straight and even.
+
+  - fullsize: 010-pier-20141105-135517.jpg
+    gallery: gallery/010-pier-20141105-135517.jpg
+    web: webs/010-pier-20141105-135517.jpg
+    thumb: thumbs/010-pier-20141105-135517.gif
+    caption: Pier
+    description: |2+
+
+      Same as above, but placed on wall.
+
+  - fullsize: 011-pier-without-flash-20141105-144925.jpg
+    gallery: gallery/011-pier-without-flash-20141105-144925.jpg
+    web: webs/011-pier-without-flash-20141105-144925.jpg
+    thumb: thumbs/011-pier-without-flash-20141105-144925.gif
+    caption: Pier Without Flash
+    description: |2+
+
+      Experimenting with picture lighting.
+      This one is taken without any flash.
+
+
+  - fullsize: 012-pier-with-flash-20141105-144936.jpg
+    gallery: gallery/012-pier-with-flash-20141105-144936.jpg
+    web: webs/012-pier-with-flash-20141105-144936.jpg
+    thumb: thumbs/012-pier-with-flash-20141105-144936.gif
+    caption: Pier With Flash
+    description: |2+
+
+      Continuing the lighting experiment, this one taken *with* flash.
+
+  - fullsize: 014-final-20141112-170845.jpg
+    gallery: gallery/014-final-20141112-170845.jpg
+    web: webs/014-final-20141112-170845.jpg
+    thumb: thumbs/014-final-20141112-170845.gif
+    caption: Final
+    description: |2+
+
+      Final painting.
+
+  - fullsize: 020-final-cleaned.jpg
+    gallery: gallery/020-final-cleaned.jpg
+    web: webs/020-final-cleaned.jpg
+    thumb: thumbs/020-final-cleaned.gif
+    caption: Final Cleaned
+    description: |2+
+
+      Cleaned up, straightened, leveled, etc., in Photoshop.
+
+  - fullsize: 021-matted.jpg
+    gallery: gallery/021-matted.jpg
+    web: webs/021-matted.jpg
+    thumb: thumbs/021-matted.gif
+    caption: Matted
+    description: |2+
+
+      Photoshop mat applied.
