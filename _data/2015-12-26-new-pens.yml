@@ -1,0 +1,72 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Phthalo Green
+  - Phthalo Blue
+  - Phthalo Turquoise
+  - Permanent Rose
+  - Permanent Alizerin Crimson
+  - Quin Magenta
+  - Quin Scarlet
+  - Quin Burnt Scarlet
+  - Quin Violet
+  - Cobalt Blue Violet
+  - Raw Sienna
+  - Monte Amiato
+  - Verditer Blue
+  - Verditer Green
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  - Chromatic Black made from Paynes Grey and Cobalt Red Light
+  - Neutral Tint
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+  - 'Kalinsky Sable #1 Round'
+gallery:
+  path: ink-and-paper/2015-12-26-new-pens/
+  images:
+  - fullsize: 001-monteverde-intima-glacier-blue-1.1-stub-.jpg
+    gallery: gallery/001-monteverde-intima-glacier-blue-1.1-stub-.jpg
+    web: webs/001-monteverde-intima-glacier-blue-1.1-stub-.jpg
+    thumb: thumbs/001-monteverde-intima-glacier-blue-1.1-stub-.gif
+    caption: Monteverde Intima Glacier Blue Stub
+    description: |2+
+
+      description
+
+  - fullsize: 002-edison-nouveau-premier-pearlescent-purple.jpg
+    gallery: gallery/002-edison-nouveau-premier-pearlescent-purple.jpg
+    web: webs/002-edison-nouveau-premier-pearlescent-purple.jpg
+    thumb: thumbs/002-edison-nouveau-premier-pearlescent-purple.gif
+    caption: Edison Nouveau Premier Pearlescent Purple
+    description: |2+
+
+      description
+
+  - fullsize: 003-old-black-men.jpg
+    gallery: gallery/003-old-black-men.jpg
+    web: webs/003-old-black-men.jpg
+    thumb: thumbs/003-old-black-men.gif
+    caption: Old Black Men
+    description: |2+
+
+      description
+
+  - fullsize: 004-masks.jpg
+    gallery: gallery/004-masks.jpg
+    web: webs/004-masks.jpg
+    thumb: thumbs/004-masks.gif
+    caption: Masks
+    description: |2+
+
+      description
+
