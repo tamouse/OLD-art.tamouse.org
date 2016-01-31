@@ -1,0 +1,127 @@
+---
+materials:
+  Inks:
+    - "De Atramentis Jane Austin"
+    - "De Atramentis Edgar Allen Poe"
+    - "De Atramentis William Shakespeare"
+    - "J. Herbin Cafe des Iles"
+    - "Private Reserve Grey Flannel"
+gallery:
+  path: ink-and-paper/2016-01-31-january-ink-drop/
+  images:
+  - fullsize: 001-deatramentis-jane-austin.jpg
+    gallery: gallery/001-deatramentis-jane-austin.jpg
+    web: webs/001-deatramentis-jane-austin.jpg
+    thumb: thumbs/001-deatramentis-jane-austin.gif
+    caption: Deatramentis Jane Austin
+    description: |2+
+
+      description
+
+  - fullsize: 002-deatramentis-edgar-allen-poe.jpg
+    gallery: gallery/002-deatramentis-edgar-allen-poe.jpg
+    web: webs/002-deatramentis-edgar-allen-poe.jpg
+    thumb: thumbs/002-deatramentis-edgar-allen-poe.gif
+    caption: Deatramentis Edgar Allen Poe
+    description: |2+
+
+      description
+
+  - fullsize: 003-deatramentis-william-shakespeare.jpg
+    gallery: gallery/003-deatramentis-william-shakespeare.jpg
+    web: webs/003-deatramentis-william-shakespeare.jpg
+    thumb: thumbs/003-deatramentis-william-shakespeare.gif
+    caption: Deatramentis William Shakespeare
+    description: |2+
+
+      description
+
+  - fullsize: 004-private-reserve-grey-flannel.jpg
+    gallery: gallery/004-private-reserve-grey-flannel.jpg
+    web: webs/004-private-reserve-grey-flannel.jpg
+    thumb: thumbs/004-private-reserve-grey-flannel.gif
+    caption: Private Reserve Grey Flannel
+    description: |2+
+
+      description
+
+  - fullsize: 005-j-herbin-cafe-des-iles.jpg
+    gallery: gallery/005-j-herbin-cafe-des-iles.jpg
+    web: webs/005-j-herbin-cafe-des-iles.jpg
+    thumb: thumbs/005-j-herbin-cafe-des-iles.gif
+    caption: J Herbin Cafe Des Iles
+    description: |2+
+
+      description
+
+  - fullsize: 006-jane-austin-writing-sample.jpg
+    gallery: gallery/006-jane-austin-writing-sample.jpg
+    web: webs/006-jane-austin-writing-sample.jpg
+    thumb: thumbs/006-jane-austin-writing-sample.gif
+    caption: Jane Austin Writing Sample
+    description: |2+
+
+      description
+
+  - fullsize: 007-edgar-allen-poe-writing-sample.jpg
+    gallery: gallery/007-edgar-allen-poe-writing-sample.jpg
+    web: webs/007-edgar-allen-poe-writing-sample.jpg
+    thumb: thumbs/007-edgar-allen-poe-writing-sample.gif
+    caption: Edgar Allen Poe Writing Sample
+    description: |2+
+
+      description
+
+  - fullsize: 008-grey-flannel-writing-sample.jpg
+    gallery: gallery/008-grey-flannel-writing-sample.jpg
+    web: webs/008-grey-flannel-writing-sample.jpg
+    thumb: thumbs/008-grey-flannel-writing-sample.gif
+    caption: Grey Flannel Writing Sample
+    description: |2+
+
+      description
+
+  - fullsize: 009-william-shakespeare-writing-sample.jpg
+    gallery: gallery/009-william-shakespeare-writing-sample.jpg
+    web: webs/009-william-shakespeare-writing-sample.jpg
+    thumb: thumbs/009-william-shakespeare-writing-sample.gif
+    caption: William Shakespeare Writing Sample
+    description: |2+
+
+      description
+
+  - fullsize: 010-william-shakespeare-in-the-edison-with-fine-nib.jpg
+    gallery: gallery/010-william-shakespeare-in-the-edison-with-fine-nib.jpg
+    web: webs/010-william-shakespeare-in-the-edison-with-fine-nib.jpg
+    thumb: thumbs/010-william-shakespeare-in-the-edison-with-fine-nib.gif
+    caption: William Shakespeare In The Edison With Fine Nib
+    description: |2+
+
+      description
+
+  - fullsize: 011-cafe-des-iles-writing-sample.jpg
+    gallery: gallery/011-cafe-des-iles-writing-sample.jpg
+    web: webs/011-cafe-des-iles-writing-sample.jpg
+    thumb: thumbs/011-cafe-des-iles-writing-sample.gif
+    caption: Cafe Des Iles Writing Sample
+    description: |2+
+
+      description
+
+  - fullsize: 012-carry-inks.jpg
+    gallery: gallery/012-carry-inks.jpg
+    web: webs/012-carry-inks.jpg
+    thumb: thumbs/012-carry-inks.gif
+    caption: Carry Inks
+    description: |2+
+
+      description
+
+  - fullsize: 013-all-together.jpg
+    gallery: gallery/013-all-together.jpg
+    web: webs/013-all-together.jpg
+    thumb: thumbs/013-all-together.gif
+    caption: All Together
+    description: |2+
+
+      description

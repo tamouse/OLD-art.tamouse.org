@@ -1,0 +1,55 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Permanent Alizerin Crimson
+  - Cobalt Blue Violet
+  - Monte Amiato
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+gallery:
+  path: watercolour/class/2016/2016-01-27-fox/
+  images:
+  - fullsize: 001-fox-initial-background.jpg
+    gallery: gallery/001-fox-initial-background.jpg
+    web: webs/001-fox-initial-background.jpg
+    thumb: thumbs/001-fox-initial-background.gif
+    caption: Fox Initial Background
+    description: |2+
+
+      description
+
+  - fullsize: 003-fox-deepening-background.jpg
+    gallery: gallery/003-fox-deepening-background.jpg
+    web: webs/003-fox-deepening-background.jpg
+    thumb: thumbs/003-fox-deepening-background.gif
+    caption: Fox Deepening Background
+    description: |2+
+
+      description
+
+  - fullsize: 004-fox-starting-on-rocks.jpg
+    gallery: gallery/004-fox-starting-on-rocks.jpg
+    web: webs/004-fox-starting-on-rocks.jpg
+    thumb: thumbs/004-fox-starting-on-rocks.gif
+    caption: Fox Starting On Rocks
+    description: |2+
+
+      description
+
+  - fullsize: 005-fox-filled-in.jpg
+    gallery: gallery/005-fox-filled-in.jpg
+    web: webs/005-fox-filled-in.jpg
+    thumb: thumbs/005-fox-filled-in.gif
+    caption: Fox Filled In
+    description: |2+
+
+      description

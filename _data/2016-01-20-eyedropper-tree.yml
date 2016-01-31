@@ -1,0 +1,33 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Permanent Alizerin Crimson
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+  - a glass eyedropper
+gallery:
+  path: watercolour/class/2016/2016-01-20-eyedropper-tree/
+  images:
+  - fullsize: 001-sketch-and-sky-wash.jpg
+    gallery: gallery/001-sketch-and-sky-wash.jpg
+    web: webs/001-sketch-and-sky-wash.jpg
+    thumb: thumbs/001-sketch-and-sky-wash.gif
+    caption: Sketch And Sky Wash
+    description: |2+
+
+      description
+
+  - fullsize: 002-tree-and-snow-shadows.jpg
+    gallery: gallery/002-tree-and-snow-shadows.jpg
+    web: webs/002-tree-and-snow-shadows.jpg
+    thumb: thumbs/002-tree-and-snow-shadows.gif
+    caption: Tree And Snow Shadows
+    description: |2+
+
+      description

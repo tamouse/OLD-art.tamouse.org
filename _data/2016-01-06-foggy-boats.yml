@@ -1,0 +1,99 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Phthalo Green
+  - Phthalo Blue
+  - Phthalo Turquoise
+  - Permanent Rose
+  - Permanent Alizerin Crimson
+  - Quin Magenta
+  - Quin Scarlet
+  - Quin Burnt Scarlet
+  - Quin Violet
+  - Cobalt Blue Violet
+  - Raw Sienna
+  - Monte Amiato
+  - Verditer Blue
+  - Verditer Green
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  - Chromatic Black made from Paynes Grey and Cobalt Red Light
+  - Neutral Tint
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+  - 'Kalinsky Sable #1 Round'
+gallery:
+  path: watercolour/class/2016/2016-01-06-foggy-boats/
+  images:
+  - fullsize: 000-source-photo.jpg
+    gallery: gallery/000-source-photo.jpg
+    web: webs/000-source-photo.jpg
+    thumb: thumbs/000-source-photo.gif
+    caption: Source Photo
+    description: |2+
+
+      description
+
+  - fullsize: 001-background.jpg
+    gallery: gallery/001-background.jpg
+    web: webs/001-background.jpg
+    thumb: thumbs/001-background.gif
+    caption: Background
+    description: |2+
+
+      description
+
+  - fullsize: 005-boats-and-bird.jpg
+    gallery: gallery/005-boats-and-bird.jpg
+    web: webs/005-boats-and-bird.jpg
+    thumb: thumbs/005-boats-and-bird.gif
+    caption: Boats And Bird
+    description: |2+
+
+      description
+
+  - fullsize: 101-boat-shadows-and-white-gouache.jpg
+    gallery: gallery/101-boat-shadows-and-white-gouache.jpg
+    web: webs/101-boat-shadows-and-white-gouache.jpg
+    thumb: thumbs/101-boat-shadows-and-white-gouache.gif
+    caption: Boat Shadows And White Gouache
+    description: |2+
+
+      description
+
+  - fullsize: 201-final-signed.jpg
+    gallery: gallery/201-final-signed.jpg
+    web: webs/201-final-signed.jpg
+    thumb: thumbs/201-final-signed.gif
+    caption: Final Signed
+    description: |2+
+
+      description
+
+  - fullsize: 301-final-published.jpg
+    gallery: gallery/301-final-published.jpg
+    web: webs/301-final-published.jpg
+    thumb: thumbs/301-final-published.gif
+    caption: Final Published
+    description: |2+
+
+      description
+
+  - fullsize: 302-final-published-matted.jpg
+    gallery: gallery/302-final-published-matted.jpg
+    web: webs/302-final-published-matted.jpg
+    thumb: thumbs/302-final-published-matted.gif
+    caption: Final Published Matted
+    description: |2+
+
+      description
+

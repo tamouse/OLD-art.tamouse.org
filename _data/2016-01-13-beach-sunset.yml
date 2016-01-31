@@ -1,0 +1,58 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Permanent Rose
+  - Quin Magenta
+  - Quin Scarlet
+  - Cobalt Blue Violet
+  - Monte Amiato
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+gallery:
+  path: watercolour/class/2016/2016-01-13-beach-sunset/
+  images:
+  - fullsize: 001-backpainting-sunset-sky.jpg
+    gallery: gallery/001-backpainting-sunset-sky.jpg
+    web: webs/001-backpainting-sunset-sky.jpg
+    thumb: thumbs/001-backpainting-sunset-sky.gif
+    caption: Backpainting Sunset Sky
+    description: |2+
+
+      description
+
+  - fullsize: 003-overpainting-sunset-sky.jpg
+    gallery: gallery/003-overpainting-sunset-sky.jpg
+    web: webs/003-overpainting-sunset-sky.jpg
+    thumb: thumbs/003-overpainting-sunset-sky.gif
+    caption: Overpainting Sunset Sky
+    description: |2+
+
+      description
+
+  - fullsize: 004-overpainting-sunset-sky-right-side-up.jpg
+    gallery: gallery/004-overpainting-sunset-sky-right-side-up.jpg
+    web: webs/004-overpainting-sunset-sky-right-side-up.jpg
+    thumb: thumbs/004-overpainting-sunset-sky-right-side-up.gif
+    caption: Overpainting Sunset Sky Right Side Up
+    description: |2+
+
+      description
+
+  - fullsize: 006-ground-and-water-underpainting.jpg
+    gallery: gallery/006-ground-and-water-underpainting.jpg
+    web: webs/006-ground-and-water-underpainting.jpg
+    thumb: thumbs/006-ground-and-water-underpainting.gif
+    caption: Ground And Water Underpainting
+    description: |2+
+
+      description
