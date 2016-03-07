@@ -1,0 +1,69 @@
+---
+materials:
+  Paper:
+  - Leuchtturm 1917 A4 dot-grid
+  Pens and Ink:
+    - Pilot Metro White Tiger, 1.1mm Stub, Diamine Onyx Black
+    - Pilot Metro Brushed Gold, 1.1mm Stub, J. Herbin Cafe des Iles
+    - "Pilot Metro Red Retro Pop, 1.1mm Stub, Noodler's Rattler's Red"
+    - "Pilot Metro Purple Retro Pop, Fine, Noodler's Cactus Fruit Eel"
+    - Pilot Metro Green Retro Pop, Fine, De Atramentis Jane Austen (green)
+    - "Ahab Flex, Noodler's Red/Black"
+gallery:
+  path: ink-and-paper/2016-03-03-poems-writing-practice/
+  images:
+  - fullsize: 001-writing-practice.jpg
+    gallery: gallery/001-writing-practice.jpg
+    web: webs/001-writing-practice.jpg
+    thumb: thumbs/001-writing-practice.gif
+    caption: Writing Practice
+    description: |2+
+
+      The tableau set.
+
+  - fullsize: 010-invictus-full-page.jpg
+    gallery: gallery/010-invictus-full-page.jpg
+    web: webs/010-invictus-full-page.jpg
+    thumb: thumbs/010-invictus-full-page.gif
+    caption: Invictus Full Page
+    description: |2+
+
+      The poem Invictus inspired Nelson Mandela through his years in prison.
+
+  - fullsize: 011-invictus-detail.jpg
+    gallery: gallery/011-invictus-detail.jpg
+    web: webs/011-invictus-detail.jpg
+    thumb: thumbs/011-invictus-detail.gif
+    caption: Invictus Detail
+    description: |2+
+
+      This is the heart of the poem. "I am the captain of my soul"
+
+  - fullsize: 013-invictus-title-banner.jpg
+    gallery: gallery/013-invictus-title-banner.jpg
+    web: webs/013-invictus-title-banner.jpg
+    thumb: thumbs/013-invictus-title-banner.gif
+    caption: Invictus Title Banner
+    description: |2+
+
+      I tried out a neat little banner. Like it?
+
+  - fullsize: 020-you-and-your-people-full-page.jpg
+    gallery: gallery/020-you-and-your-people-full-page.jpg
+    web: webs/020-you-and-your-people-full-page.jpg
+    thumb: thumbs/020-you-and-your-people-full-page.gif
+    caption: You And Your People Full Page
+    description: |2+
+
+      Langston Hughes poem appealing to black people to be free, to stand up, to face the evil.
+
+  - fullsize: 021-you-and-your-people-detail.jpg
+    gallery: gallery/021-you-and-your-people-detail.jpg
+    web: webs/021-you-and-your-people-detail.jpg
+    thumb: thumbs/021-you-and-your-people-detail.gif
+    caption: You And Your People Detail
+    description: |2+
+
+      "I dare you to come one step nearer to me"
+
+      "When you say that, you will be free."

@@ -1,0 +1,73 @@
+---
+materials:
+  Inks:
+    - "Montegrappa Bordeaux"
+    - "Monteverde Burgundy"
+    - "Pelikan Edelstein Sapphire"
+    - "Pilot Iroshizuku Ajisai - Hydrangea"
+    - "Private Reserve Chocolat"
+gallery:
+  path: ink-and-paper/2016-03-04-february-2016-ink-drop/
+  images:
+  - fullsize: 001-the-purples.jpg
+    gallery: gallery/001-the-purples.jpg
+    web: webs/001-the-purples.jpg
+    thumb: thumbs/001-the-purples.gif
+    caption: The Purples
+    description: ""
+
+  - fullsize: 002-montegrappa-bordeaux.jpg
+    gallery: gallery/002-montegrappa-bordeaux.jpg
+    web: webs/002-montegrappa-bordeaux.jpg
+    thumb: thumbs/002-montegrappa-bordeaux.gif
+    caption: Montegrappa Bordeaux
+    description: ""
+
+  - fullsize: 003-monteverde-burgundy.jpg
+    gallery: gallery/003-monteverde-burgundy.jpg
+    web: webs/003-monteverde-burgundy.jpg
+    thumb: thumbs/003-monteverde-burgundy.gif
+    caption: Monteverde Burgundy
+    description: ""
+
+  - fullsize: 004-bordeaux-burgundy-side-by-side.jpg
+    gallery: gallery/004-bordeaux-burgundy-side-by-side.jpg
+    web: webs/004-bordeaux-burgundy-side-by-side.jpg
+    thumb: thumbs/004-bordeaux-burgundy-side-by-side.gif
+    caption: Bordeaux Burgundy Side By Side
+    description: ""
+
+  - fullsize: 011-iroshizuki-ajisai.jpg
+    gallery: gallery/011-iroshizuki-ajisai.jpg
+    web: webs/011-iroshizuki-ajisai.jpg
+    thumb: thumbs/011-iroshizuki-ajisai.gif
+    caption: Iroshizuki Ajisai
+    description: ""
+
+  - fullsize: 012-pelikan-sapphire.jpg
+    gallery: gallery/012-pelikan-sapphire.jpg
+    web: webs/012-pelikan-sapphire.jpg
+    thumb: thumbs/012-pelikan-sapphire.gif
+    caption: Pelikan Sapphire
+    description: ""
+
+  - fullsize: 013-ajisai-sapphire-side-by-side.jpg
+    gallery: gallery/013-ajisai-sapphire-side-by-side.jpg
+    web: webs/013-ajisai-sapphire-side-by-side.jpg
+    thumb: thumbs/013-ajisai-sapphire-side-by-side.gif
+    caption: Ajisai Sapphire Side By Side
+    description: ""
+
+  - fullsize: 014-the-blues.jpg
+    gallery: gallery/014-the-blues.jpg
+    web: webs/014-the-blues.jpg
+    thumb: thumbs/014-the-blues.gif
+    caption: The Blues
+    description: ""
+
+  - fullsize: 021-private-reserve-chocolat.jpg
+    gallery: gallery/021-private-reserve-chocolat.jpg
+    web: webs/021-private-reserve-chocolat.jpg
+    thumb: thumbs/021-private-reserve-chocolat.gif
+    caption: Private Reserve Chocolat
+    description: ""

@@ -1,0 +1,70 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Sap Green
+  - Undersea Green
+  - Verditer Blue
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+gallery:
+  path: watercolour/class/2016/2016-03-02-bunny/
+  images:
+  - fullsize: 001-starting-out-tableau-20160302.jpg
+    gallery: gallery/001-starting-out-tableau-20160302.jpg
+    web: webs/001-starting-out-tableau-20160302.jpg
+    thumb: thumbs/001-starting-out-tableau-20160302.gif
+    caption: Starting Out Tableau
+    description: |2+
+
+      description
+
+  - fullsize: 002-bunny-underpainting-20160302.jpg
+    gallery: gallery/002-bunny-underpainting-20160302.jpg
+    web: webs/002-bunny-underpainting-20160302.jpg
+    thumb: thumbs/002-bunny-underpainting-20160302.gif
+    caption: Bunny Underpainting
+    description: |2+
+
+      description
+
+  - fullsize: 003-background-20160302.jpg
+    gallery: gallery/003-background-20160302.jpg
+    web: webs/003-background-20160302.jpg
+    thumb: thumbs/003-background-20160302.gif
+    caption: Background
+    description: |2+
+
+      description
+
+  - fullsize: 004-background-against-wall-20160302.jpg
+    gallery: gallery/004-background-against-wall-20160302.jpg
+    web: webs/004-background-against-wall-20160302.jpg
+    thumb: thumbs/004-background-against-wall-20160302.gif
+    caption: Background Against Wall
+    description: |2+
+
+      description
+
+  - fullsize: 005-body-layering-20160302.jpg
+    gallery: gallery/005-body-layering-20160302.jpg
+    web: webs/005-body-layering-20160302.jpg
+    thumb: thumbs/005-body-layering-20160302.gif
+    caption: Body Layering
+    description: |2+
+
+      description
+
+  - fullsize: 006-body-darker-20160302.jpg
+    gallery: gallery/006-body-darker-20160302.jpg
+    web: webs/006-body-darker-20160302.jpg
+    thumb: thumbs/006-body-darker-20160302.gif
+    caption: Body Darker
+    description: |2+
+
+      description
