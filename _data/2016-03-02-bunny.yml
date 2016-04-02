@@ -68,3 +68,39 @@ gallery:
     description: |2+
 
       description
+
+  - fullsize: 010-eyes-filled-in.jpg
+    gallery: gallery/010-eyes-filled-in.jpg
+    web: webs/010-eyes-filled-in.jpg
+    thumb: thumbs/010-eyes-filled-in.gif
+    caption: Eyes Filled In
+    description: |2+
+
+      description
+
+  - fullsize: 011-fixing-can.jpg
+    gallery: gallery/011-fixing-can.jpg
+    web: webs/011-fixing-can.jpg
+    thumb: thumbs/011-fixing-can.gif
+    caption: Fixing Can
+    description: |2+
+
+      description
+
+  - fullsize: 012-fixing-can.jpg
+    gallery: gallery/012-fixing-can.jpg
+    web: webs/012-fixing-can.jpg
+    thumb: thumbs/012-fixing-can.gif
+    caption: Fixing Can
+    description: |2+
+
+      description
+
+  - fullsize: 013-better-foreground.jpg
+    gallery: gallery/013-better-foreground.jpg
+    web: webs/013-better-foreground.jpg
+    thumb: thumbs/013-better-foreground.gif
+    caption: Better Foreground
+    description: |2+
+
+      description

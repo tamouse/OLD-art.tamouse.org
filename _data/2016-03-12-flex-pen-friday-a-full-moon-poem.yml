@@ -1,0 +1,41 @@
+---
+materials:
+  Paper:
+  - Rhodia Dot Pad 8x11
+  Pens:
+    - "Noodler's Ahab Flex"
+    - "Pilot Metro with 1.1 mm stub"
+  Inks:
+    - "Monteverde Blue/Black"
+    - "Noodler's Cactus Fruit Eel"
+    - "Noodler's Red-Black"
+    - "Noodler's Greune Cactus"
+gallery:
+  path: ink-and-paper/2016-03-12-flex-pen-friday-a-full-moon-poem/
+  images:
+  - fullsize: 001-writing.jpg
+    gallery: gallery/001-writing.jpg
+    web: webs/001-writing.jpg
+    thumb: thumbs/001-writing.gif
+    caption: Writing
+    description: |2+
+
+      writing the poem out
+
+  - fullsize: 002-overhead.jpg
+    gallery: gallery/002-overhead.jpg
+    web: webs/002-overhead.jpg
+    thumb: thumbs/002-overhead.gif
+    caption: Overhead
+    description: |2+
+
+      overhead shot
+
+  - fullsize: 004-cropped.jpg
+    gallery: gallery/004-cropped.jpg
+    web: webs/004-cropped.jpg
+    thumb: thumbs/004-cropped.gif
+    caption: Cropped
+    description: |2+
+
+      cropped

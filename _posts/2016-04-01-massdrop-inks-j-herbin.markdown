@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Bunny"
-date: 2016-03-09 23:33
-categories: ["watercolour", "class"]
-tags: ["bunny", "rabbit", "critters"]
+title: "Massdrop Inks J Herbin"
+date: 2016-04-01 00:41
+categories: ["ink-and-paper"]
+tags:
+- "massdrop"
+- "inks"
+- "j-herbin"
+- "larmes-de-cassis"
+- "lie-de-the"
+- "vert-empire"
+- "gris-nuage"
+- "rouge-caroubier"
+- "orange-indien"
+- "perle-noire"
+- "terre-de-feu"
+- "violette-pensee"
+- "rouge-opera"
+
 ---
 
-A work in progress
+I bought a couple of 5-packs of J. Herbin ink on Massdrop recently, and they arrived today. A mass ink test proceeds!
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -21,8 +35,6 @@ A work in progress
 {% include image_feature.html image=images.last %}
 
 *******
-
-## Steps
 
 {% for image in images %}
 {% include image_entry.html %}

@@ -1,0 +1,100 @@
+---
+materials:
+  Inks:
+    - "Diamine Imperial Purple"
+    - "Diamine Majestic Blue"
+    - "Diamine Regency Blue"
+    - "Diamine Tyrian Purple"
+    - "Noodler's Kung Te-Cheng"
+gallery:
+  path: ink-and-paper/2016-03-07-march-2016-ink-drop/
+  images:
+  - fullsize: 001-monarch-madness-ink-drop-from-goulet-pens.jpg
+    gallery: gallery/001-monarch-madness-ink-drop-from-goulet-pens.jpg
+    web: webs/001-monarch-madness-ink-drop-from-goulet-pens.jpg
+    thumb: thumbs/001-monarch-madness-ink-drop-from-goulet-pens.gif
+    caption: Monarch Madness Ink Drop From Goulet Pens
+    description: |2+
+
+      description
+
+  - fullsize: 002-ink-in-vials.jpg
+    gallery: gallery/002-ink-in-vials.jpg
+    web: webs/002-ink-in-vials.jpg
+    thumb: thumbs/002-ink-in-vials.gif
+    caption: Ink In Vials
+    description: |2+
+
+      description
+
+  - fullsize: 012-page-1.jpg
+    gallery: gallery/012-page-1.jpg
+    web: webs/012-page-1.jpg
+    thumb: thumbs/012-page-1.gif
+    caption: Page
+    description: |2+
+
+      description
+
+  - fullsize: 014-page-2.jpg
+    gallery: gallery/014-page-2.jpg
+    web: webs/014-page-2.jpg
+    thumb: thumbs/014-page-2.gif
+    caption: Page
+    description: |2+
+
+      description
+
+  - fullsize: 021-diamine-imperial-purple.jpg
+    gallery: gallery/021-diamine-imperial-purple.jpg
+    web: webs/021-diamine-imperial-purple.jpg
+    thumb: thumbs/021-diamine-imperial-purple.gif
+    caption: Diamine Imperial Purple
+    description: |2+
+
+      description
+
+  - fullsize: 022-diamine-majestic-blue.jpg
+    gallery: gallery/022-diamine-majestic-blue.jpg
+    web: webs/022-diamine-majestic-blue.jpg
+    thumb: thumbs/022-diamine-majestic-blue.gif
+    caption: Diamine Majestic Blue
+    description: |2+
+
+      description
+
+  - fullsize: 023-diamine-regency-blue.jpg
+    gallery: gallery/023-diamine-regency-blue.jpg
+    web: webs/023-diamine-regency-blue.jpg
+    thumb: thumbs/023-diamine-regency-blue.gif
+    caption: Diamine Regency Blue
+    description: |2+
+
+      description
+
+  - fullsize: 024-diamine-tyrian-purple.jpg
+    gallery: gallery/024-diamine-tyrian-purple.jpg
+    web: webs/024-diamine-tyrian-purple.jpg
+    thumb: thumbs/024-diamine-tyrian-purple.gif
+    caption: Diamine Tyrian Purple
+    description: |2+
+
+      description
+
+  - fullsize: 025-noodlers-kung-te-cheng.jpg
+    gallery: gallery/025-noodlers-kung-te-cheng.jpg
+    web: webs/025-noodlers-kung-te-cheng.jpg
+    thumb: thumbs/025-noodlers-kung-te-cheng.gif
+    caption: Noodlers Kung Te Cheng
+    description: |2+
+
+      description
+
+  - fullsize: 100-all.jpg
+    gallery: gallery/100-all.jpg
+    web: webs/100-all.jpg
+    thumb: thumbs/100-all.gif
+    caption: All
+    description: |2+
+
+      description

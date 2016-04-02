@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Bunny"
-date: 2016-03-09 23:33
-categories: ["watercolour", "class"]
-tags: ["bunny", "rabbit", "critters"]
+title: "March 2016 Ink Drop"
+date: 2016-03-07 21:27
+categories: ["ink-and-paper"]
+tags: ["ink-drop", "monarch-madness", "diamine-imperial-purple", "diamine-majestic-blue", "diamine-regency-blue", "diamine-tyrian-purple", "noodlers-kung-te-cheng"]
+
 ---
 
-A work in progress
+The March 2016 Ink Drop from [Goulet Pens](http://gouletpens.com):
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -22,7 +23,7 @@ A work in progress
 
 *******
 
-## Steps
+## Inks
 
 {% for image in images %}
 {% include image_entry.html %}

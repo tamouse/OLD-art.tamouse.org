@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Bunny"
-date: 2016-03-09 23:33
-categories: ["watercolour", "class"]
-tags: ["bunny", "rabbit", "critters"]
+title: "Noodler Neponset Ghostly Lapis with Music Nib"
+date: 2016-03-12 12:00
+categories: ["ink-and-paper"]
+tags: ["noodler", "neponset", "pen", "music-nib", "ghostly-lapis"]
+
 ---
 
-A work in progress
+I recently acquired to much excitement, a pen I'd been waiting to come back into stock at [Goulet Pens](http://www.gouletpens.com): The [Noodler Neponset in Ghostly Lapis](http://www.gouletpens.com/n12074/p/N12074). Sadly, however, it didn't perform to my expectations.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -18,17 +19,13 @@ A work in progress
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
 
-{% include image_feature.html image=images.last %}
-
-*******
-
-## Steps
-
 {% for image in images %}
 {% include image_entry.html %}
 {% endfor %}
 
+
 *******
+
 
 ## Materials
 {% for material in materials %}
