@@ -1,0 +1,35 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Sap Green
+  - Phthalo Green
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  - Chromatic Black made from Paynes Grey and Cobalt Red Light
+  - Purplish paint mixture in my palette of unknown provenance
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+gallery:
+  path: watercolour/class/2016/2016-04-06-walk-in-the-wood/
+  images:
+  - fullsize: 20160406-01-lighter-values.jpg
+    gallery: gallery/20160406-01-lighter-values.jpg
+    web: webs/20160406-01-lighter-values.jpg
+    thumb: thumbs/20160406-01-lighter-values.gif
+    caption: Lighter Values
+    description: |2+
+
+      Lighter Values
+
+  - fullsize: 20160406-02-darker-values.jpg
+    gallery: gallery/20160406-02-darker-values.jpg
+    web: webs/20160406-02-darker-values.jpg
+    thumb: thumbs/20160406-02-darker-values.gif
+    caption: Darker Values
+    description: |2+
+
+      Darker Values
