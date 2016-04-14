@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Walk in the Woods"
-date: 2016-04-06 21:51
+date: 2016-04-13
 categories: ["watercolour", "class"]
 tags: ["editing", "composition", "focal-point", "WIP"]
 
 ---
 
-This week in class, we started a new painting, of a man walking his dog in the woods. Our task was to "edit" the picture, choosing our own focal point for the image. I'm liking what I've done so far. This is still very much a work in progress.
+**Update:** Second week in class on this painting. I sort of fumbled on the dog, which turned into a large fluffy cat-leopard, sorta...
+
+Last week in class, we started a new painting, of a man walking his dog in the woods. Our task was to "edit" the picture, choosing our own focal point for the image. I'm liking what I've done so far. This is still very much a work in progress.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
