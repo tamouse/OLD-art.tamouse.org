@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Walk in the Woods"
-date: 2016-04-13
+date: 2016-04-21
 categories: ["watercolour", "class"]
 tags: ["editing", "composition", "focal-point", "WIP"]
 
 ---
+
+**Update 4/21:** Finished the painting by giving the figures some shadow to stand upon, and gave some of the trees a bit of gouache.
 
 **Update:** Second week in class on this painting. I sort of fumbled on the dog, which turned into a large fluffy cat-leopard, sorta...
 

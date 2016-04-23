@@ -152,3 +152,59 @@ gallery:
       actually the final, I think it needs some shadows anchoring the
       figures before it's done. I just wanted to find a colour for the
       mat.
+
+  - fullsize: 20160421-01-shadows.jpg
+    gallery: gallery/20160421-01-shadows.jpg
+    web: webs/20160421-01-shadows.jpg
+    thumb: thumbs/20160421-01-shadows.gif
+    caption: Shadows
+    description: |2+
+
+      Gave the two figures some light shadows to stand upon, anchoring them
+      to the ground.
+
+  - fullsize: 20160421-02-darker-shadows.jpg
+    gallery: gallery/20160421-02-darker-shadows.jpg
+    web: webs/20160421-02-darker-shadows.jpg
+    thumb: thumbs/20160421-02-darker-shadows.gif
+    caption: Darker Shadows
+    description: |2+
+
+      Deepened the shadows a bit more, adding in French Ultramarine.
+
+  - fullsize: 20160421-03-white-streaks-on-trees.jpg
+    gallery: gallery/20160421-03-white-streaks-on-trees.jpg
+    web: webs/20160421-03-white-streaks-on-trees.jpg
+    thumb: thumbs/20160421-03-white-streaks-on-trees.gif
+    caption: White Streaks On Trees
+    description: |2+
+
+      Using zinc white gouache, I added some streaks to the trees, to
+      lighten them a touch, and provide some depth and interest in them.
+
+  - fullsize: 20160421-10-signed.jpg
+    gallery: gallery/20160421-10-signed.jpg
+    web: webs/20160421-10-signed.jpg
+    thumb: thumbs/20160421-10-signed.gif
+    caption: Signed
+    description: |2+
+
+      I'm calling it done. As the border areas are so dark, I signed it with white pencil at the suggestion of my teacher.
+
+  - fullsize: 99-01-final.jpg
+    gallery: gallery/99-01-final.jpg
+    web: webs/99-01-final.jpg
+    thumb: thumbs/99-01-final.gif
+    caption: Final
+    description: |2+
+
+      Final, signed version, all squared up.
+
+  - fullsize: 99-02-final-matted.jpg
+    gallery: gallery/99-02-final-matted.jpg
+    web: webs/99-02-final-matted.jpg
+    thumb: thumbs/99-02-final-matted.gif
+    caption: Final Matted
+    description: |2+
+
+      Final version in a photoshop mat.
