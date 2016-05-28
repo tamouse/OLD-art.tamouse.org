@@ -2,12 +2,21 @@
 layout: page
 title: "Gallery"
 navbar: true
----
+masonry:
+  itemSelector: .grid-item
+  columnWidth: 300
 
-<div class="row">
+---
+A selection of featured items.
+
+<style media="screen">
+  .grid-item { width: {{page.masonry.columnWidth}}px; }
+</style>
+
+<div class="grid">
   {% for post in site.posts | where:"featured","true" %}
   {% if post.featured %}
-  <div class="col-sm-12 col-md-6 col-lg-4">
+  <div class="grid-item">
     {% include gallery_item.html item=post %}
   </div>
   {% endif %}

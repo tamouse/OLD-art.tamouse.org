@@ -11,3 +11,11 @@ $(document).ready(function() {
   $(".fancybox").fancybox();
 });
 </script>
+{% if page.masonry %}
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+<script>
+var $grid = $('.grid').masonry({itemSelector:'{{page.masonry.itemSelector}}',columnWidth:{{page.masonry.columnWidth}}});
+$grid.imagesLoaded().progress(function(){$grid.masonry('layout')});
+</script>
+{% endif %}
