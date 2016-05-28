@@ -40,7 +40,11 @@ Gold. It's really a pretty spectauclar green and I'm very much liking
 it. (I'm liking it a lot better than WN Payne's Grey with Monte Amiato
 Raw Sienna which looks really drab, if dark.)
 
-I will probably be making this into a scarf on Redbubble.
+I will probably be making this into a
+[scarf](http://www.redbubble.com/people/tamouse/works/21984809-frog-in-a-flower?p=scarf)
+on
+[Redbubble](http://www.redbubble.com/people/tamouse/works/21984809-frog-in-a-flower).
+
 
 
 *******
