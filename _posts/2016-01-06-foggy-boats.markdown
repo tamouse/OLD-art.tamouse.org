@@ -4,6 +4,8 @@ title: "Foggy Boats"
 date: 2016-01-06 07:16
 categories: ["watercolour", "class"]
 tags: ["seascape", "fog", "boats", "bird"]
+featured: true
+
 ---
 
 First painting of the year 2016, a set of boats in the fog, with a bird flying by low.

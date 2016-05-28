@@ -1,18 +1,13 @@
 ---
 layout: post
-title: "Walk in the Woods"
-date: 2016-04-21
+title: "Beach Mail"
+date: 2016-04-27 23:28
 categories: ["watercolour", "class"]
-tags: ["editing", "composition", "focal-point", "WIP"]
-featured: true
+tags: ["watercolour", "class"]
 
 ---
 
-**Update 4/21:** Finished the painting by giving the figures some shadow to stand upon, and gave some of the trees a bit of gouache.
-
-**Update:** Second week in class on this painting. I sort of fumbled on the dog, which turned into a large fluffy cat-leopard, sorta...
-
-Last week in class, we started a new painting, of a man walking his dog in the woods. Our task was to "edit" the picture, choosing our own focal point for the image. I'm liking what I've done so far. This is still very much a work in progress.
+Just an interesting beach scene with a row of mailboxes.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}

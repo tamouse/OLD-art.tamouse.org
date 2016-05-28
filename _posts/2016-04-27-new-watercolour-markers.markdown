@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "Beach Sunset"
-date: 2016-01-13 07:17
-categories: ["watercolour", "class"]
-tags: ["landscape", "beach", "sunset"]
-featured: true
-
+title: "New Watercolour Markers"
+date: 2016-04-27 02:10
+categories: ["ink-and-pen"]
+tags: ["winsor-newton", "watercolour-markers", "markers"]
 ---
 
-Sunset on a beach. Work still definitely in progress.
+I obtained a set of Winsor Newton Watercolour Markers, their 6-pack,
+and tried them out on a number of papers to see how they
+perform. Perhaps no surprise, but the smoother the paper, given enough weight,
+the better they perform.
+
+I particularly like how the work on the smooth Stillman & Birn papers, expecially the gamma (vellum), epsilon, and zeta.
+The Tamoe River paper was very nice.
+I also *very* much enjoyed the performance on plain old printer paper.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -20,7 +25,7 @@ Sunset on a beach. Work still definitely in progress.
 {% assign gallery_path = site.s3path | append: gallery.path %}
 {% assign images = gallery.images %}
 
-{% include image_feature.html image=images.last %}
+
 
 *******
 

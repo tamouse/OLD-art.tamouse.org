@@ -1,0 +1,230 @@
+---
+materials:
+  Markers:
+    - Cadmium Yellow Hue
+    - Alizerin Crimson Hue
+    - Prussian Blue Hue
+    - Sap Green
+    - Yellow Ochre
+    - Ivory Black
+
+  Paper:
+    - Stillman & Birn Alpha
+    - Stillman & Birn Beta
+    - Stillman & Birn Gamma
+    - Stillman & Birn Delta
+    - Stillman & Birn Epsilon
+    - Stillman & Birn Zeta
+    - Arches 140lb rough watercolour paper
+    - Strathmore 140lb cold press watercolour paper
+    - Canson sketch pad
+    - Leuchtterm sketch book
+    - Leuchtterm note book
+    - Rhodia dot pad
+    - Clairefontaine
+    - Daedalus Books Script notebook
+    - Moleskine Caier blank notebook
+    - Tamoe River paper
+    - Japanese Rice paper
+    - Greenline engineering pad
+    - Cheap graph paper
+    - Laser printer paper
+
+gallery:
+  path: ink-and-paper/2016-04-27-new-watercolour-markers/
+  images:
+  - fullsize: 20160427.001.winsor-newton-watercolour-markers.jpg
+    gallery: gallery/20160427.001.winsor-newton-watercolour-markers.jpg
+    web: webs/20160427.001.winsor-newton-watercolour-markers.jpg
+    thumb: thumbs/20160427.001.winsor-newton-watercolour-markers.gif
+    caption: Winsor Newton Watercolour Markers
+    description: |2+
+
+
+
+  - fullsize: 20160427.010-arches-140lb-rough.jpg
+    gallery: gallery/20160427.010-arches-140lb-rough.jpg
+    web: webs/20160427.010-arches-140lb-rough.jpg
+    thumb: thumbs/20160427.010-arches-140lb-rough.gif
+    caption: Arches 140lb Rough
+    description: |2+
+
+
+
+  - fullsize: 20160427.018-strathmore-watercolour-paper.jpg
+    gallery: gallery/20160427.018-strathmore-watercolour-paper.jpg
+    web: webs/20160427.018-strathmore-watercolour-paper.jpg
+    thumb: thumbs/20160427.018-strathmore-watercolour-paper.gif
+    caption: Strathmore Watercolour Paper
+    description: |2+
+
+
+
+  - fullsize: 20160427.020-stillman-birn-alpha.jpg
+    gallery: gallery/20160427.020-stillman-birn-alpha.jpg
+    web: webs/20160427.020-stillman-birn-alpha.jpg
+    thumb: thumbs/20160427.020-stillman-birn-alpha.gif
+    caption: Stillman Birn Alpha
+    description: |2+
+
+
+
+  - fullsize: 20160427.020-stillman-birn-beta-wet.jpg
+    gallery: gallery/20160427.020-stillman-birn-beta-wet.jpg
+    web: webs/20160427.020-stillman-birn-beta-wet.jpg
+    thumb: thumbs/20160427.020-stillman-birn-beta-wet.gif
+    caption: Stillman Birn Beta Wet
+    description: |2+
+
+
+
+  - fullsize: 20160427.021-stillman-birn-beta-dry.jpg
+    gallery: gallery/20160427.021-stillman-birn-beta-dry.jpg
+    web: webs/20160427.021-stillman-birn-beta-dry.jpg
+    thumb: thumbs/20160427.021-stillman-birn-beta-dry.gif
+    caption: Stillman Birn Beta Dry
+    description: |2+
+
+
+
+  - fullsize: 20160427.023-stillman-birn-gamma-vellum.jpg
+    gallery: gallery/20160427.023-stillman-birn-gamma-vellum.jpg
+    web: webs/20160427.023-stillman-birn-gamma-vellum.jpg
+    thumb: thumbs/20160427.023-stillman-birn-gamma-vellum.gif
+    caption: Stillman Birn Gamma Vellum
+    description: |2+
+
+
+
+  - fullsize: 20160427.025-stillman-birn-delta.jpg
+    gallery: gallery/20160427.025-stillman-birn-delta.jpg
+    web: webs/20160427.025-stillman-birn-delta.jpg
+    thumb: thumbs/20160427.025-stillman-birn-delta.gif
+    caption: Stillman Birn Delta
+    description: |2+
+
+
+
+  - fullsize: 20160427.027-stillman-birn-epsilon.jpg
+    gallery: gallery/20160427.027-stillman-birn-epsilon.jpg
+    web: webs/20160427.027-stillman-birn-epsilon.jpg
+    thumb: thumbs/20160427.027-stillman-birn-epsilon.gif
+    caption: Stillman Birn Epsilon
+    description: |2+
+
+
+
+  - fullsize: 20160427.029-stillman-birn-zeta.jpg
+    gallery: gallery/20160427.029-stillman-birn-zeta.jpg
+    web: webs/20160427.029-stillman-birn-zeta.jpg
+    thumb: thumbs/20160427.029-stillman-birn-zeta.gif
+    caption: Stillman Birn Zeta
+    description: |2+
+
+
+
+  - fullsize: 20160427.030-canson-sketchpad.jpg
+    gallery: gallery/20160427.030-canson-sketchpad.jpg
+    web: webs/20160427.030-canson-sketchpad.jpg
+    thumb: thumbs/20160427.030-canson-sketchpad.gif
+    caption: Canson Sketchpad
+    description: |2+
+
+
+
+  - fullsize: 20160427.040-leuchtterm-sketchbook.jpg
+    gallery: gallery/20160427.040-leuchtterm-sketchbook.jpg
+    web: webs/20160427.040-leuchtterm-sketchbook.jpg
+    thumb: thumbs/20160427.040-leuchtterm-sketchbook.gif
+    caption: Leuchtterm Sketchbook
+    description: |2+
+
+
+
+  - fullsize: 20160427.041-leuchtterm-notebook.jpg
+    gallery: gallery/20160427.041-leuchtterm-notebook.jpg
+    web: webs/20160427.041-leuchtterm-notebook.jpg
+    thumb: thumbs/20160427.041-leuchtterm-notebook.gif
+    caption: Leuchtterm Notebook
+    description: |2+
+
+
+
+  - fullsize: 20160427.044-rhodia-dotpad.jpg
+    gallery: gallery/20160427.044-rhodia-dotpad.jpg
+    web: webs/20160427.044-rhodia-dotpad.jpg
+    thumb: thumbs/20160427.044-rhodia-dotpad.gif
+    caption: Rhodia Dotpad
+    description: |2+
+
+
+
+  - fullsize: 20160427.046-clairefontaine.jpg
+    gallery: gallery/20160427.046-clairefontaine.jpg
+    web: webs/20160427.046-clairefontaine.jpg
+    thumb: thumbs/20160427.046-clairefontaine.gif
+    caption: Clairefontaine
+    description: |2+
+
+
+
+  - fullsize: 20160427.050-daedalus-books-script-notebook.jpg
+    gallery: gallery/20160427.050-daedalus-books-script-notebook.jpg
+    web: webs/20160427.050-daedalus-books-script-notebook.jpg
+    thumb: thumbs/20160427.050-daedalus-books-script-notebook.gif
+    caption: Daedalus Books Script Notebook
+    description: |2+
+
+
+
+  - fullsize: 20160427.055-moleskine-caier-blank-book.jpg
+    gallery: gallery/20160427.055-moleskine-caier-blank-book.jpg
+    web: webs/20160427.055-moleskine-caier-blank-book.jpg
+    thumb: thumbs/20160427.055-moleskine-caier-blank-book.gif
+    caption: Moleskine Caier Blank Book
+    description: |2+
+
+
+
+  - fullsize: 20160427.060-tamoe-river-paper.jpg
+    gallery: gallery/20160427.060-tamoe-river-paper.jpg
+    web: webs/20160427.060-tamoe-river-paper.jpg
+    thumb: thumbs/20160427.060-tamoe-river-paper.gif
+    caption: Tamoe River Paper
+    description: |2+
+
+
+
+  - fullsize: 20160427.065-japanese-rice-paper.jpg
+    gallery: gallery/20160427.065-japanese-rice-paper.jpg
+    web: webs/20160427.065-japanese-rice-paper.jpg
+    thumb: thumbs/20160427.065-japanese-rice-paper.gif
+    caption: Japanese Rice Paper
+    description: |2+
+
+
+
+  - fullsize: 20160427.070-greenline-engineering-pad.jpg
+    gallery: gallery/20160427.070-greenline-engineering-pad.jpg
+    web: webs/20160427.070-greenline-engineering-pad.jpg
+    thumb: thumbs/20160427.070-greenline-engineering-pad.gif
+    caption: Greenline Engineering Pad
+    description: |2+
+
+
+
+  - fullsize: 20160427.072-cheap-graph-paper.jpg
+    gallery: gallery/20160427.072-cheap-graph-paper.jpg
+    web: webs/20160427.072-cheap-graph-paper.jpg
+    thumb: thumbs/20160427.072-cheap-graph-paper.gif
+    caption: Cheap Graph Paper
+    description: |2+
+
+
+
+  - fullsize: 20160427.074-laser-printer-paper.jpg
+    gallery: gallery/20160427.074-laser-printer-paper.jpg
+    web: webs/20160427.074-laser-printer-paper.jpg
+    thumb: thumbs/20160427.074-laser-printer-paper.gif
+    caption: Laser Printer Paper
+    description: |2+

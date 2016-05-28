@@ -4,6 +4,8 @@ title: "Bunny"
 date: 2016-03-09 23:33
 categories: ["watercolour", "class"]
 tags: ["bunny", "rabbit", "critters"]
+featured: true
+
 ---
 
 A work in progress

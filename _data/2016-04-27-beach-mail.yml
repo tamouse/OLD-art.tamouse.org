@@ -1,0 +1,108 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Phthalo Green
+  - Phthalo Blue
+  - Phthalo Turquoise
+  - Permanent Rose
+  - Permanent Alizerin Crimson
+  - Quin Magenta
+  - Quin Scarlet
+  - Quin Burnt Scarlet
+  - Quin Violet
+  - Cobalt Blue Violet
+  - Raw Sienna
+  - Monte Amiato
+  - Verditer Blue
+  - Verditer Green
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  - Chromatic Black made from Paynes Grey and Cobalt Red Light
+  - Neutral Tint
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+  - 'Kalinsky Sable #1 Round'
+gallery:
+  path: watercolour/class/2016/2016-04-27-beach-mail/
+  images:
+  - fullsize: 20160427.001-sketch-and-first-washes.jpg
+    gallery: gallery/20160427.001-sketch-and-first-washes.jpg
+    web: webs/20160427.001-sketch-and-first-washes.jpg
+    thumb: thumbs/20160427.001-sketch-and-first-washes.gif
+    caption: Sketch And First Washes
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.002-sea-sand-and-bushes-underpainting.jpg
+    gallery: gallery/20160427.002-sea-sand-and-bushes-underpainting.jpg
+    web: webs/20160427.002-sea-sand-and-bushes-underpainting.jpg
+    thumb: thumbs/20160427.002-sea-sand-and-bushes-underpainting.gif
+    caption: Sea Sand And Bushes Underpainting
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.003-brushes-overpainting.jpg
+    gallery: gallery/20160427.003-brushes-overpainting.jpg
+    web: webs/20160427.003-brushes-overpainting.jpg
+    thumb: thumbs/20160427.003-brushes-overpainting.gif
+    caption: Brushes Overpainting
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.004-green-bushes-background-sand-varegation.jpg
+    gallery: gallery/20160427.004-green-bushes-background-sand-varegation.jpg
+    web: webs/20160427.004-green-bushes-background-sand-varegation.jpg
+    thumb: thumbs/20160427.004-green-bushes-background-sand-varegation.gif
+    caption: Green Bushes Background Sand Varegation
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.005-stippling-brush-and-foreground-vegetaion.jpg
+    gallery: gallery/20160427.005-stippling-brush-and-foreground-vegetaion.jpg
+    web: webs/20160427.005-stippling-brush-and-foreground-vegetaion.jpg
+    thumb: thumbs/20160427.005-stippling-brush-and-foreground-vegetaion.gif
+    caption: Stippling Brush And Foreground Vegetaion
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.008-mailbox-beginning.jpg
+    gallery: gallery/20160427.008-mailbox-beginning.jpg
+    web: webs/20160427.008-mailbox-beginning.jpg
+    thumb: thumbs/20160427.008-mailbox-beginning.gif
+    caption: Mailbox Beginning
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.010-mailbox-numbers.jpg
+    gallery: gallery/20160427.010-mailbox-numbers.jpg
+    web: webs/20160427.010-mailbox-numbers.jpg
+    thumb: thumbs/20160427.010-mailbox-numbers.gif
+    caption: Mailbox Numbers
+    description: |2+
+
+      description
+
+  - fullsize: 20160427.020-end-of-class.jpg
+    gallery: gallery/20160427.020-end-of-class.jpg
+    web: webs/20160427.020-end-of-class.jpg
+    thumb: thumbs/20160427.020-end-of-class.gif
+    caption: End Of Class
+    description: |2+
+
+      description
+
