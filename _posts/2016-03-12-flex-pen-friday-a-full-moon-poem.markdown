@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Flex Pen Friday: A Full Moon Poem"
 date: 2016-03-12 21:21

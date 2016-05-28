@@ -6,18 +6,15 @@ materials:
   - Aureolin (Cobalt Yellow)
   - Quin Burnt Orange
   - French Ultramarine Blue
-  - Quin Gold
   - Cobalt Blue
   - Sap Green
+  - Phthalo Green
   - Permanent Rose
-  - Quin Magenta
-  - Quin Scarlet
-  - Cobalt Blue Violet
-  - Monte Amiato
+  - Permanent Alizerin Crimson
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
   Brushes:
   - 'Dreamcatcher #10 Round'
   - 'Dreamcatcher #4 Round'
-  - 1 inch flat
 gallery:
   path: watercolour/class/2016/2016-01-13-beach-sunset/
   images:
@@ -28,7 +25,9 @@ gallery:
     caption: Backpainting Sunset Sky
     description: |2+
 
-      description
+      I'm painting the sky's underpainting upside-down to get the flow I like for the sky.
+
+      I don't always do it this way, but this one I thought needed it.
 
   - fullsize: 003-overpainting-sunset-sky.jpg
     gallery: gallery/003-overpainting-sunset-sky.jpg
@@ -37,7 +36,7 @@ gallery:
     caption: Overpainting Sunset Sky
     description: |2+
 
-      description
+      Still working upside-down, I added in the over-saturated sunset sky.
 
   - fullsize: 004-overpainting-sunset-sky-right-side-up.jpg
     gallery: gallery/004-overpainting-sunset-sky-right-side-up.jpg
@@ -46,13 +45,76 @@ gallery:
     caption: Overpainting Sunset Sky Right Side Up
     description: |2+
 
-      description
+      Here it is flipped right-side up.
 
-  - fullsize: 006-ground-and-water-underpainting.jpg
-    gallery: gallery/006-ground-and-water-underpainting.jpg
-    web: webs/006-ground-and-water-underpainting.jpg
-    thumb: thumbs/006-ground-and-water-underpainting.gif
-    caption: Ground And Water Underpainting
+  - fullsize: 006-line-hills.jpg
+    gallery: gallery/006-line-hills.jpg
+    web: webs/006-line-hills.jpg
+    thumb: thumbs/006-line-hills.gif
+    caption: Line Hills
     description: |2+
 
-      description
+      To make sure the edges of the dunes were emphasized, I laid an outline of French Ultramarine along each ridge.
+
+  - fullsize: 008-second-hill.jpg
+    gallery: gallery/008-second-hill.jpg
+    web: webs/008-second-hill.jpg
+    thumb: thumbs/008-second-hill.gif
+    caption: Second Hill
+    description: |2+
+
+      I painted in the second sand dune (from the front).
+
+  - fullsize: 010-first-hill.jpg
+    gallery: gallery/010-first-hill.jpg
+    web: webs/010-first-hill.jpg
+    thumb: thumbs/010-first-hill.gif
+    caption: First Hill
+    description: |2+
+
+      Filling in the first (front-most) sand dune.
+
+  - fullsize: 012-darken-hills.jpg
+    gallery: gallery/012-darken-hills.jpg
+    web: webs/012-darken-hills.jpg
+    thumb: thumbs/012-darken-hills.gif
+    caption: Darken Hills
+    description: |2+
+
+      I darkened both dunes, since they're in silouhette because of the sunset.
+
+  - fullsize: 014-posts-and-grasses.jpg
+    gallery: gallery/014-posts-and-grasses.jpg
+    web: webs/014-posts-and-grasses.jpg
+    thumb: thumbs/014-posts-and-grasses.gif
+    caption: Posts And Grasses
+    description: |2+
+
+      The posts and grasses are nearly black, in silouhette as well.
+
+  - fullsize: 016-final.jpg
+    gallery: gallery/016-final.jpg
+    web: webs/016-final.jpg
+    thumb: thumbs/016-final.gif
+    caption: Final
+    description: |2+
+
+      Final version (dried)
+
+  - fullsize: 018-final-straight.jpg
+    gallery: gallery/018-final-straight.jpg
+    web: webs/018-final-straight.jpg
+    thumb: thumbs/018-final-straight.gif
+    caption: Final Straight
+    description: |2+
+
+      Final version, straightened, cropped, and balanced in Photoshop.
+
+  - fullsize: 020-final-matted.jpg
+    gallery: gallery/020-final-matted.jpg
+    web: webs/020-final-matted.jpg
+    thumb: thumbs/020-final-matted.gif
+    caption: Final Matted
+    description: |2+
+
+      Matted in Photoshop.
