@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Lilacs"
+date: 2016-06-22 12:03
+categories: ["watercolour", "class"]
+tags: ["lilacs", "10-minute"]
+---
+
+This entry consists of two paintings of the same subject. The one on
+the left took a lot of time and attention. The one on the right was
+initially done in about 10 minutes.
+
+{% if page.data %}{% assign data = page.data %}
+{% else %}
+{% assign data = page.path | split:"/" | last | split:"." | first %}
+{% endif %}
+{% assign data = site.data[data] %}
+{% assign gallery = data.gallery %}
+{% assign materials = data.materials %}
+{% assign gallery_path = site.s3path | append: gallery.path %}
+{% assign images = gallery.images %}
+
+{% include image_feature.html image=images.last %}
+
+I like both paintings, but the 10 minute painting has a better "feel"
+to me. I love the fast and loose, more naturalistic style. The
+painting I spent more time working on had several problems, some of
+which I don't feel are resolved still.
+
+
+*******
+
+## Steps
+
+{% for image in images %}
+{% include image_entry.html %}
+{% endfor %}
+
+*******
+
+## Materials
+{% for material in materials %}
+### {{ material.first }}
+{% for item in material.last %}
+* {{ item }}{% endfor %}
+{% endfor %}
