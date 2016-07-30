@@ -1,0 +1,31 @@
+---
+materials:
+  Paper:
+  - "S&B Beta Sketchbook"
+  Pen:
+    - Manga Zebra G nib in holder
+  Ink:
+    - "J. Herbin Violettes Pens&eacute;e"
+    - "Monteverde Turquoise"
+    - "J. Herbin Rouge Op&eacute;ra"
+    - "Diamine Onyx Black"
+gallery:
+  path: ink-and-paper/2016-07-29-what-you-can-plan/
+  images:
+  - fullsize: 001-final.jpg
+    gallery: gallery/001-final.jpg
+    web: webs/001-final.jpg
+    thumb: thumbs/001-final.gif
+    caption: Final
+    description: |2+
+
+      This is an excerpt one of David Whyte's poems, "What to Remember When Waking".
+
+  - fullsize: 002-final-frame.jpg
+    gallery: gallery/002-final-frame.jpg
+    web: webs/002-final-frame.jpg
+    thumb: thumbs/002-final-frame.gif
+    caption: Final Frame
+    description: |2+
+
+      Cleaned up a little more, and a bit of matting to give it a framed look.
