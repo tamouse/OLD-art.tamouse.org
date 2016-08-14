@@ -11,21 +11,21 @@
 {% if gallery %}
 {% assign avatar = gallery.images.last.thumb | prepend: gallery.path | prepend: site.s3path %}
 {% endif %}
-<div class="media"
-     style="margin: 10px 0; padding: 5px 0">
-  <div class="media-left media-top"
-       style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;">
+<div class="row"
+     >
+  <div class="col-xs-12 col-sm-2"
+       >
     {% if avatar %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <img class="media-object"
-           src="{{ avatar }}"
-           style="width: 200px; height: 200px; minwidth: 200px; minheight: 200px; maxwidth: 200px; maxheight: 200px;"
+      <img src="{{ avatar }}"
+	   class="img-responsive center-block"
            />
     </a>
     {% endif %}
   </div>
-  <div class="media-body">
-    <h2 style="margin-top: 0"><a href="{{ post.url | prepend: site.baseurl }}"
+  <div class="col-xs-12 col-sm-10">
+    <h2 class="align-top"
+	><a href="{{ post.url | prepend: site.baseurl }}"
            class="media-heading">{{ post.title }}</a></h2>
     <ol class="breadcrumb">
       <li>{{ post.date | date: "%b %-d, %Y" }}</li>

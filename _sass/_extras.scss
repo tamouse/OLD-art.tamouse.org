@@ -76,6 +76,10 @@ ul.link-list {
     max-height: 50px;
 }
 
+.align-top {
+  margin-top: 0;
+  vertical-align: top;
+}
 
 @media(min-width: $screen-md-min) {
     .hide-on-mobile {
