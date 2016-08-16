@@ -1,0 +1,28 @@
+<div class="container">
+
+  {% for image in include.images  %}
+  <div class="row">
+
+    <div class="col-xs-12 col-md-6">
+      <a href="{{ image.fullsize | prepend: gallery_path}}"
+	 target="_blank">
+	<img class="img-responsive center-block" alt="{{ image.caption }}"
+	     src="{{ image.web | prepend: gallery_path }}"/>
+      </a>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <h3 class="figure-caption align-top">
+	<a href="{{ image.fullsize | prepend: gallery_path}}"
+	   target="_blank">
+	  {{ image.caption }}
+	</a>
+      </h3>
+      <div class="figure-description">
+	{{ image.description | markdownify }}
+      </div>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>

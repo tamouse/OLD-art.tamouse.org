@@ -9,7 +9,11 @@
 {% endif %}
 {% endif %}
 {% if gallery %}
+{% if gallery.featured_image %}
+{% assign avatar = gallery.featured_image.thumb | prepend: gallery.path | prepend: site.s3path %}
+{% else %}
 {% assign avatar = gallery.images.last.thumb | prepend: gallery.path | prepend: site.s3path %}
+{% endif %}
 {% endif %}
 <div class="row"
      >

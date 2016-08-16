@@ -1,0 +1,90 @@
+---
+layout: post
+title: "New Pen and Inks"
+date: 2016-08-14 13:53
+categories: ["ink-and-paper"]
+tags: ["konrad", "black-swan-in-roses", "apache-sunset", "oxblood"]
+
+---
+
+<div class="row">
+  <div class="col-xs-12">
+    In recent penmail...
+  </div>
+</div>
+
+
+{% if page.data %}{% assign data = page.data %}
+{% else %}
+{% assign data = page.path | split:"/" | last | split:"." | first %}
+{% endif %}
+{% assign data = site.data[data] %}
+{% assign gallery = data.gallery %}
+{% assign materials = data.materials %}
+{% assign gallery_path = site.s3path | append: gallery.path %}
+{% assign featured_image = gallery.featured_image %}
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      {{ featured_image.description | markdownify}}
+    </p>
+
+    <img src="{{ featured_image.web | prepend: gallery_path }}"
+	 class="img-responsive center-block"
+	 alt="{{ featured_image.caption }}" />
+  </div>
+</div>
+
+
+<hr />
+
+<h2>Materials</h2>
+
+{% for material in materials %}
+
+<h3>{{ material.first }}</h3>
+<ul>
+  {% for item in material.last %}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+
+<hr />
+
+
+<h2>Tests</h2>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>{{materials.Pens[0]}}</h3>
+      {% include small_gallery.html images=gallery.konrad.images %}
+    </div>
+  </div> <!-- Konrad .row -->
+
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>{{materials.Ink[0]}}</h3>
+      {% include small_gallery.html images=gallery.apache_sunset.images %}
+    </div>
+  </div> <!-- Apache Sunset .row -->
+
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>{{materials.Ink[1]}}</h3>
+      {% include small_gallery.html images=gallery.black_swan_in_australian_roses.images %}
+    </div>
+  </div> <!-- Black Swan in Australian Roses .row -->
+
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>{{materials.Ink[2]}}</h3>
+      {% include small_gallery.html images=gallery.diamine_oxblood.images %}
+    </div>
+  </div> <!-- Diamine Oxblood .row -->
+
+</div>
