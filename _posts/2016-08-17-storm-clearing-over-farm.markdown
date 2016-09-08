@@ -1,5 +1,6 @@
 ---
 layout: post
+featured: true
 title: "Storm Clearing Over Farm"
 date: 2016-08-17 20:24
 categories: ["watercolour", "class"]
