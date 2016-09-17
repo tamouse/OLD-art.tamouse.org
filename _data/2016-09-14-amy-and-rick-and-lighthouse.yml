@@ -1,0 +1,108 @@
+---
+materials:
+  Paper:
+  - Arches 140lb cold press, 9x12
+  Paint:
+  - Aureolin (Cobalt Yellow)
+  - Quin Burnt Orange
+  - French Ultramarine Blue
+  - Quin Gold
+  - Cobalt Blue
+  - Sap Green
+  - Phthalo Green
+  - Phthalo Blue
+  - Phthalo Turquoise
+  - Permanent Rose
+  - Permanent Alizerin Crimson
+  - Quin Magenta
+  - Quin Scarlet
+  - Quin Burnt Scarlet
+  - Quin Violet
+  - Cobalt Blue Violet
+  - Raw Sienna
+  - Monte Amiato
+  - Verditer Blue
+  - Verditer Green
+  - Chromatic Black made from Quin Burnt Orange and French Ultramarine
+  - Chromatic Black made from Paynes Grey and Cobalt Red Light
+  - Neutral Tint
+  Brushes:
+  - 'Dreamcatcher #10 Round'
+  - 'Dreamcatcher #4 Round'
+  - 1 inch flat
+  - 'Kalinsky Sable #1 Round'
+gallery:
+  path: watercolour/original/2016-09-14-amy-and-rick-and-lighthouse/
+  images:
+  - fullsize: 00.00-source-photo.jpg
+    gallery: gallery/00.00-source-photo.jpg
+    web: webs/00.00-source-photo.jpg
+    thumb: thumbs/00.00-source-photo.gif
+    caption: Source Photo
+    description: |2+
+
+      description
+
+  - fullsize: 00.01-source-photo-monochrome.jpg
+    gallery: gallery/00.01-source-photo-monochrome.jpg
+    web: webs/00.01-source-photo-monochrome.jpg
+    thumb: thumbs/00.01-source-photo-monochrome.gif
+    caption: Source Photo Monochrome
+    description: |2+
+
+      description
+
+  - fullsize: 01.01-skethes.jpg
+    gallery: gallery/01.01-skethes.jpg
+    web: webs/01.01-skethes.jpg
+    thumb: thumbs/01.01-skethes.gif
+    caption: Skethes
+    description: |2+
+
+      description
+
+  - fullsize: 01.02-sketch.jpg
+    gallery: gallery/01.02-sketch.jpg
+    web: webs/01.02-sketch.jpg
+    thumb: thumbs/01.02-sketch.gif
+    caption: Sketch
+    description: |2+
+
+      description
+
+  - fullsize: 01.03-sketch.jpg
+    gallery: gallery/01.03-sketch.jpg
+    web: webs/01.03-sketch.jpg
+    thumb: thumbs/01.03-sketch.gif
+    caption: Sketch
+    description: |2+
+
+      description
+
+  - fullsize: 01.04-sketch.jpg
+    gallery: gallery/01.04-sketch.jpg
+    web: webs/01.04-sketch.jpg
+    thumb: thumbs/01.04-sketch.gif
+    caption: Sketch
+    description: |2+
+
+      description
+
+  - fullsize: 01.05-sketch.jpg
+    gallery: gallery/01.05-sketch.jpg
+    web: webs/01.05-sketch.jpg
+    thumb: thumbs/01.05-sketch.gif
+    caption: Sketch
+    description: |2+
+
+      description
+
+  - fullsize: 01.10-value-study.jpg
+    gallery: gallery/01.10-value-study.jpg
+    web: webs/01.10-value-study.jpg
+    thumb: thumbs/01.10-value-study.gif
+    caption: Value Study
+    description: |2+
+
+      description
+
