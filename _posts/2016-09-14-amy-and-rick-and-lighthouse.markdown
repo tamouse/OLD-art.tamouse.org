@@ -7,7 +7,17 @@ tags: ["landscape", "seascape", "wedding-picture"]
 
 ---
 
-work in progress
+I finished this last week after working on it for a month while in San
+Jose, California. I got to work with my friend, Edna Wendes, who is a
+fabulous watercolourist and teacher. I had so much fun in her class
+with the other students.
+
+The story of this painting is also a bit different. It's a picture
+from my friend Amy's wedding of she and her husband in a stunning
+embrace flanked by a white lighthouse, as you can tell in the source
+photo. I walked into their living room and was just absolutely stunned
+by the photo. I begged Amy to let me paint it, it was such a stunning
+visual.
 
 {% if page.data %}{% assign data = page.data %}
 {% else %}
@@ -20,6 +30,14 @@ work in progress
 {% assign images = gallery.images %}
 
 {% include image_feature.html image=images.last %}
+
+At the end, I don't think I did anything to improve upon the original
+image. I like what I've done, some parts of it really work, but both
+the figures could use more work. The second piece of driftwood, in the
+center, doesn't really fit; it's going the wrong direction to make
+much sense, even though it's fixing a mistake.
+
+I hope they like it.
 
 *******
 

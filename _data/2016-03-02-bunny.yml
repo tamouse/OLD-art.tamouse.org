@@ -3,11 +3,11 @@ materials:
   Paper:
   - Arches 140lb cold press, 9x12
   Paint:
+  - Aureolin (Cobalt Yellow)
   - Quin Burnt Orange
   - French Ultramarine Blue
   - Sap Green
-  - Undersea Green
-  - Verditer Blue
+  - Phthalo Green
   - Chromatic Black made from Quin Burnt Orange and French Ultramarine
   Brushes:
   - 'Dreamcatcher #10 Round'
@@ -20,87 +20,94 @@ gallery:
     web: webs/001-starting-out-tableau-20160302.jpg
     thumb: thumbs/001-starting-out-tableau-20160302.gif
     caption: Starting Out Tableau
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 002-bunny-underpainting-20160302.jpg
     gallery: gallery/002-bunny-underpainting-20160302.jpg
     web: webs/002-bunny-underpainting-20160302.jpg
     thumb: thumbs/002-bunny-underpainting-20160302.gif
     caption: Bunny Underpainting
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 003-background-20160302.jpg
     gallery: gallery/003-background-20160302.jpg
     web: webs/003-background-20160302.jpg
     thumb: thumbs/003-background-20160302.gif
     caption: Background
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 004-background-against-wall-20160302.jpg
     gallery: gallery/004-background-against-wall-20160302.jpg
     web: webs/004-background-against-wall-20160302.jpg
     thumb: thumbs/004-background-against-wall-20160302.gif
     caption: Background Against Wall
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 005-body-layering-20160302.jpg
     gallery: gallery/005-body-layering-20160302.jpg
     web: webs/005-body-layering-20160302.jpg
     thumb: thumbs/005-body-layering-20160302.gif
     caption: Body Layering
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 006-body-darker-20160302.jpg
     gallery: gallery/006-body-darker-20160302.jpg
     web: webs/006-body-darker-20160302.jpg
     thumb: thumbs/006-body-darker-20160302.gif
     caption: Body Darker
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 010-eyes-filled-in.jpg
     gallery: gallery/010-eyes-filled-in.jpg
     web: webs/010-eyes-filled-in.jpg
     thumb: thumbs/010-eyes-filled-in.gif
     caption: Eyes Filled In
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 011-fixing-can.jpg
     gallery: gallery/011-fixing-can.jpg
     web: webs/011-fixing-can.jpg
     thumb: thumbs/011-fixing-can.gif
     caption: Fixing Can
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 012-fixing-can.jpg
     gallery: gallery/012-fixing-can.jpg
     web: webs/012-fixing-can.jpg
     thumb: thumbs/012-fixing-can.gif
     caption: Fixing Can
-    description: |2+
+    description: ''
 
-      description
+
 
   - fullsize: 013-better-foreground.jpg
     gallery: gallery/013-better-foreground.jpg
     web: webs/013-better-foreground.jpg
     thumb: thumbs/013-better-foreground.gif
     caption: Better Foreground
-    description: |2+
+    description: ''
 
-      description
+
+
+  - fullsize: 020-final.jpg
+    gallery: gallery/020-final.jpg
+    web: webs/020-final.jpg
+    thumb: thumbs/020-final.gif
+    caption: Final
+    description: ''

@@ -6,30 +6,13 @@ materials:
   - Aureolin (Cobalt Yellow)
   - Quin Burnt Orange
   - French Ultramarine Blue
-  - Quin Gold
   - Cobalt Blue
   - Sap Green
-  - Phthalo Green
-  - Phthalo Blue
-  - Phthalo Turquoise
-  - Permanent Rose
   - Permanent Alizerin Crimson
-  - Quin Magenta
-  - Quin Scarlet
-  - Quin Burnt Scarlet
-  - Quin Violet
-  - Cobalt Blue Violet
-  - Raw Sienna
-  - Monte Amiato
-  - Verditer Blue
-  - Verditer Green
   - Chromatic Black made from Quin Burnt Orange and French Ultramarine
-  - Chromatic Black made from Paynes Grey and Cobalt Red Light
-  - Neutral Tint
   Brushes:
   - 'Dreamcatcher #10 Round'
   - 'Dreamcatcher #4 Round'
-  - 1 inch flat
   - 'Kalinsky Sable #1 Round'
 gallery:
   path: watercolour/original/2016-09-14-amy-and-rick-and-lighthouse/
@@ -41,7 +24,9 @@ gallery:
     caption: Source Photo
     description: |2+
 
-      description
+      My friends, Amy and Rick, have this absolutely gorgeous wedding
+      photo over their mantle; I walked in one day and was just blown
+      away by it. I asked Amy if I could paint it, she said "yes".
 
   - fullsize: 00.01-source-photo-monochrome.jpg
     gallery: gallery/00.01-source-photo-monochrome.jpg
@@ -50,7 +35,8 @@ gallery:
     caption: Source Photo Monochrome
     description: |2+
 
-      description
+      I took the painting down to monochrome to help my study the
+      values involved.
 
   - fullsize: 01.01-skethes.jpg
     gallery: gallery/01.01-skethes.jpg
@@ -59,43 +45,36 @@ gallery:
     caption: Skethes
     description: |2+
 
-      description
+      I drew a few sketches to see how I could best make a painting
+      out of their photograph. I came up with several.
 
   - fullsize: 01.02-sketch.jpg
     gallery: gallery/01.02-sketch.jpg
     web: webs/01.02-sketch.jpg
     thumb: thumbs/01.02-sketch.gif
     caption: Sketch
-    description: |2+
-
-      description
+    description: ''
 
   - fullsize: 01.03-sketch.jpg
     gallery: gallery/01.03-sketch.jpg
     web: webs/01.03-sketch.jpg
     thumb: thumbs/01.03-sketch.gif
     caption: Sketch
-    description: |2+
-
-      description
+    description: ''
 
   - fullsize: 01.04-sketch.jpg
     gallery: gallery/01.04-sketch.jpg
     web: webs/01.04-sketch.jpg
     thumb: thumbs/01.04-sketch.gif
     caption: Sketch
-    description: |2+
-
-      description
+    description: ''
 
   - fullsize: 01.05-sketch.jpg
     gallery: gallery/01.05-sketch.jpg
     web: webs/01.05-sketch.jpg
     thumb: thumbs/01.05-sketch.gif
     caption: Sketch
-    description: |2+
-
-      description
+    description: ''
 
   - fullsize: 01.10-value-study.jpg
     gallery: gallery/01.10-value-study.jpg
@@ -104,5 +83,87 @@ gallery:
     caption: Value Study
     description: |2+
 
-      description
+      I wanted to really understand this painting. It's such a high
+      key image with Amy's dress, all the sky, sand, the lighthouse,
+      and all in direct sunlight.
 
+  - fullsize: 02.01-sky.jpg
+    gallery: gallery/02.01-sky.jpg
+    web: webs/02.01-sky.jpg
+    thumb: thumbs/02.01-sky.gif
+    caption: Sky
+    description: |2+
+
+      I usually start with the sky, and I like how this worked. It
+      will get reworked later, but I was pretty happy with it like
+      this, too.
+
+  - fullsize: 02.02-water-and-rick-s-suit.jpg
+    gallery: gallery/02.02-water-and-rick-s-suit.jpg
+    web: webs/02.02-water-and-rick-s-suit.jpg
+    thumb: thumbs/02.02-water-and-rick-s-suit.gif
+    caption: "Water And Rick's Suit"
+    description: |2+
+
+      The original didn't really show any water, and the opposite side
+      of the light house was houses. I decided to put the lighthouse
+      out in the water, and have the water stretch out to the ocean.
+
+      I then worked on Rick's suit, which was grey. I wanted his
+      figure to be strong, since he's holding Amy up, and also to
+      invoke the embrace they are in.
+
+  - fullsize: 03.01-sand,-grass,-driftwood,-and-oops.jpg
+    gallery: gallery/03.01-sand,-grass,-driftwood,-and-oops.jpg
+    web: webs/03.01-sand,-grass,-driftwood,-and-oops.jpg
+    thumb: thumbs/03.01-sand,-grass,-driftwood,-and-oops.gif
+    caption: Sand Grass Driftwood And Oops
+    description: |2+
+
+      The following week, I put in the sand as a base layer, added
+      some vegetation, and put some shadows in Amy's dress. Working
+      around I put in the long piece of driftwood to balance out the
+      view.
+
+      I was starting to work on more details in Rick's hair when I
+      dropped some dark paint onto the sand. OOPS. I then did the
+      wrong things to try and correct it.
+
+      At least I got the couple's hair and skin in.
+
+      Some other problems started to show up as well. The side of the
+      lighthouse was bent, bulging towards the bottom. Amy completely
+      disappears when you step away from the painting.
+
+  - fullsize: 03.05-fixed-oops.jpg
+    gallery: gallery/03.05-fixed-oops.jpg
+    web: webs/03.05-fixed-oops.jpg
+    thumb: thumbs/03.05-fixed-oops.gif
+    caption: Fixed Oops
+    description: |2+
+
+      I fixed the oops by turning it into another piece of driftwood.
+
+      I fixed the side of the lighthouse by laying down a piece of
+      scotch tape right alongside the lighthouse where I wanted the
+      wall to run and sealing the left edge of it with my
+      thumbnail. Then just painted over the tape and paper with the
+      dark grey, and pulled the pigment away from the edge to soften
+      it and create the shadow. Lifting the tape I was so happy to
+      find the edge perfectly straight. I let out a "YIPPEE!!" and the
+      class cheered. (Okay, they laughed.)
+
+  - fullsize: 04.01-final.jpg
+    gallery: gallery/04.01-final.jpg
+    web: webs/04.01-final.jpg
+    thumb: thumbs/04.01-final.gif
+    caption: Final
+    description: |2+
+
+      For the final step, I went back to the sky to fill in more blue
+      to make Amy reappear and be fully part of the painting. I had to
+      work on this a bit to make sure it didn't look too much like an
+      addition, and to make sure it didn't just appear as a special
+      outline of her dress.
+
+      I'm really happy with this one. I hope they like it.

@@ -7,6 +7,25 @@ tags: ["pen", "corrosion", "monteverde", "intima", "glacier-blue", "problem"]
 
 ---
 
+#### **UPDATE:** Wed Sep 21 09:16:12 2016
+
+
+I wrote [Goulet Pens](https://gouletpens.com) customer service asking
+about this problem, wanting to know what to do about it. They wrote
+back letting me know that it might be a problem with the manufacturing and
+told me to contact [Yafa](http://www.yafa.com), the distributors for
+Monnteverde. I did so, and happy ending time: Yafa is sending me a new
+pen!
+
+Thanks to Clara at Yafa and Kelsi at Goulet for all the help.
+
+
+*******
+
+
+
+
+
 This is something new for me: one of the pens I have is showing
 serious corrosion damage. I'm not sure what's causing it, but you can
 see in several of the photographs how much damage is happening.

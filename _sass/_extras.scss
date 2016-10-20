@@ -90,3 +90,16 @@ ul.link-list {
 	max-height: 200px;
     }
 }
+
+
+.post-index {
+  .post-index-post {
+    margin-bottom: 5rem;
+
+    .post-index-entry {
+      .post-index-entry-avatar {
+	margin: 1rem 0;
+      }
+    }
+  }
+}
