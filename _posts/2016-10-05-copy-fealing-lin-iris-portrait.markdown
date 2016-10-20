@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Copy Fealing Lin Iris Portrait"
+title: "Copy of Fealing Lin's \"Iris\" Portrait"
 date: 2016-10-05 18:34
 categories: ["watercolour"]
 tags: ["watercolour", "class", "fealing", "lin", "fealing-lin", "iris", "copy"]
