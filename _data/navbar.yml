@@ -1,4 +1,7 @@
 ---
+- name: "New Art Blog!"
+  href: http://art.pontiki.io
+
 - name: Gallery
   href: /pages/gallery/
 

@@ -19,6 +19,7 @@
   },
   "scripts": {
     "start": "gulp",
-    "publish": "gulp dist && cd _dist && git add --all && git commit -m `date \"+%Y%m%d%H%M%S\"` && git push -fu origin HEAD"
+    "prepublish": "gulp dist",
+    "publish": "git add --all && git commit -m 'published' && git push -fu origin HEAD"
   }
 }

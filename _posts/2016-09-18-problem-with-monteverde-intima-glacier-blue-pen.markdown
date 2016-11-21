@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Problem With Monteverde Intima Glacier Blue Pen"
+title: "Problem With Monteverde Intima Glacier Blue Pen *FIXED!*"
 date: 2016-09-18 22:23
 categories: ["ink-and-paper"]
 tags: ["pen", "corrosion", "monteverde", "intima", "glacier-blue", "problem"]
 
 ---
 
-#### **UPDATE:** Wed Sep 21 09:16:12 2016
+#### **UPDATE:** Wed Sep 21 09:16:12 2016 -- I got a replacement pen!
 
 
 I wrote [Goulet Pens](https://gouletpens.com) customer service asking
